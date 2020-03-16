@@ -59,7 +59,7 @@ Go through this checklist after creating your repository. It should only take a 
 - [ ] Is the `name` field correct?
 - [ ] Is the `description` field correct?
 - [ ] Is the `version` field correct?
-      Correct them with `npm version 0.1.0`, for example.
+      Use `npm version 0.1.0 --git-tag-version=false` to set the version, `0.1.0` in this example.
 - [ ] Is the `author` field correct?
 - [ ] Have you added `keywords`?
 - [ ] Are the `repository.url`, `bugs` and `homepage` links correct?
