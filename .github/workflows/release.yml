@@ -38,7 +38,7 @@ jobs:
         if: endsWith(github.event.commits[0].message, '[ci release]')
         run: npx --no-install standard-version
       - name: Push release
-        uses: ad-m/github-push-action@v0
+        uses: ad-m/github-push-action@v0.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   prevent_failed_status:
