@@ -54,7 +54,7 @@ Go through this checklist after creating your repository. It should only take a 
 - [ ] Are the `<repo-name>` fields correct?
 - [ ] Is the date (range) of the license correct?
 
-### Package.json
+### `package.json`
 
 - [ ] Is the `name` field correct?
 - [ ] Is the `description` field correct?
@@ -63,6 +63,11 @@ Go through this checklist after creating your repository. It should only take a 
 - [ ] Is the `author` field correct?
 - [ ] Have you added `keywords`?
 - [ ] Are the `repository.url`, `bugs` and `homepage` links correct?
+
+### `package-lock.json`
+
+- [ ] Is the `name` field correct?
+- [ ] Is the `version` field correct?
 
 ### Language setup
 
