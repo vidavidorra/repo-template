@@ -28,15 +28,17 @@ A template for creating new repositories.
 
 After a new repository using this template has been created, make the .
 
-1. Create a temporary checklist and replace the readme with the example.
-
+1. Remove files containing content of the template.
+   ```shell
+   $ rm CHANGELOG.md
+   ```
+2. Create a temporary checklist and replace the readme with the example.
    ```shell
    $ mv README.md CHECKLIST.md
    $ mv README.example.md README.md
    ```
-
-2. Go through the [checklist](#checklist).
-3. Remove the temporary checklist.
+3. Go through the [checklist](#checklist).
+4. Remove the temporary checklist.
    ```shell
    $ rm CHECKLIST.md
    ```
