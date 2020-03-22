@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/vidavidorra/repo-template/compare/v1.0.1...v1.0.2) (2020-03-22)
+
+### Bug Fixes
+
+- **release:** add next-standard-version package and release script ([3918c18](https://github.com/vidavidorra/repo-template/commit/3918c184c6529d33a6f6262db7c1697ddb0006c7))
+
 ### [1.0.1](https://github.com/vidavidorra/repo-template/compare/v1.0.0...v1.0.1) (2020-03-22)
 
 ### Bug Fixes
