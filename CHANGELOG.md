@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/vidavidorra/repo-template/compare/v1.0.0...v1.0.1) (2020-03-22)
+
+### Bug Fixes
+
+- **deps:** add gitattributes for Prettier major update changes ([cdfa4af](https://github.com/vidavidorra/repo-template/commit/cdfa4af68d887fca83395b75fadd0b4b1889c5b1))
+- **lint:** update lint config to run prettier ([6f961cb](https://github.com/vidavidorra/repo-template/commit/6f961cba94a4f1d29b8fe9a3afa32e0f90d9f0c1))
+- **release:** use updated release script without github-push-action dep ([7453445](https://github.com/vidavidorra/repo-template/commit/74534458a1e83b42bc8b8524efda81c5d9df0f10))
+- remove @types/node package ([da5668e](https://github.com/vidavidorra/repo-template/commit/da5668ed2673a968ad987c435c137d3b20a7adb3))
+- remove typescript configuration ([9862ec4](https://github.com/vidavidorra/repo-template/commit/9862ec4d1b238c488dc3447e50ff5fb900febc19))
+
 ## 1.0.0 (2020-03-16)
 
 ### Features
