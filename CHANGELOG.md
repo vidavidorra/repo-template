@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/vidavidorra/repo-template/compare/v1.0.3...v1.0.4) (2020-03-27)
+
+### Bug Fixes
+
+- pin actions in workflows ([6b45c5d](https://github.com/vidavidorra/repo-template/commit/6b45c5dcdea467b002729e01ca88dbbddc7edb85))
+- remove unused registry-url from setup-node arguments ([6ee62ab](https://github.com/vidavidorra/repo-template/commit/6ee62abe7a3216f43a2959c70c19deeb4e3a7dd6))
+- save exact npm package versions ([7210f37](https://github.com/vidavidorra/repo-template/commit/7210f3746e818037cd58f4ed4c0c4cb032410b4c))
+- set package to private ([f91af23](https://github.com/vidavidorra/repo-template/commit/f91af23e166394bd143bf0b669abfaa0f28c4117))
+
 ### [1.0.3](https://github.com/vidavidorra/repo-template/compare/v1.0.2...v1.0.3) (2020-03-22)
 
 ### Bug Fixes
