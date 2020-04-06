@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/vidavidorra/repo-template/compare/v1.0.4...v1.0.5) (2020-04-06)
+
+
+### Bug Fixes
+
+* **release:** add changelog section to GitHub release ([562b480](https://github.com/vidavidorra/repo-template/commit/562b4804b842d43150a06d4ce9c07b90ae9eb1da))
+* **renovate:** schedule dev dependencies on monday and friday ([07f7acd](https://github.com/vidavidorra/repo-template/commit/07f7acd3ab2ff34d110957df528a8795d88d5b23))
+* configure ESLint to lint .* configfiles too ([f4e680d](https://github.com/vidavidorra/repo-template/commit/f4e680de35529597e4afa56dd7bb2c0976ae2ded))
+
 ### [1.0.4](https://github.com/vidavidorra/repo-template/compare/v1.0.3...v1.0.4) (2020-03-27)
 
 ### Bug Fixes
