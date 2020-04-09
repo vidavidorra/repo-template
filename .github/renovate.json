@@ -5,6 +5,7 @@
     ":timezone(Europe/Amsterdam)",
     ":assignee(vidavidorra)"
   ],
+  "ignorePresets": [":prHourlyLimit2"],
   "schedule": ["before 6am"],
   "packageRules": [
     {
