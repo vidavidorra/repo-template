@@ -7,6 +7,7 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v2.1.0
@@ -17,4 +18,6 @@ jobs:
       - name: Install project
         run: npm ci
       - name: Lint
-        run: npm run lint
+        run: npm run lint-es
+      - name: Check formatting
+        run: npm run format:check
