@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/vidavidorra/repo-template/compare/v1.0.5...v1.0.6) (2020-05-06)
+
+### Bug Fixes
+
+- **ci:** add check for formatting ([939d34a](https://github.com/vidavidorra/repo-template/commit/939d34a8e4a493d85323fbdeb2be9cd199db2dd7))
+- **ci:** add timeouts to workfows ([90eef59](https://github.com/vidavidorra/repo-template/commit/90eef5982cda5a8d120a61ad23060b31501058dc))
+- **ci:** use --ignore-scripts flag on npm install (changes in 3bb9d19) ([5034e24](https://github.com/vidavidorra/repo-template/commit/5034e242201975a20ed55e2c5e8709b80693db2b))
+- **docs:** add GitHub settings section ([b9d37a5](https://github.com/vidavidorra/repo-template/commit/b9d37a51ebb0e94de674213cb6e2aedc109a515f))
+- **docs:** add Renovate section ([d0bd8f5](https://github.com/vidavidorra/repo-template/commit/d0bd8f5b61318b45aa87c969b9d8d4af1678f0af))
+- **release:** format changelog after generating it ([eb307bb](https://github.com/vidavidorra/repo-template/commit/eb307bb4942af999ef2a53c626784e341a790d07))
+- **renovate:** ignore `prHourlyLimit2` preset from `config:base` ([1af002f](https://github.com/vidavidorra/repo-template/commit/1af002fc21a40fb06e9019171416e348a9d8d2cc))
+- **renovate:** update config, o.a. add master issue and monthly dev deps ([c1f4fa6](https://github.com/vidavidorra/repo-template/commit/c1f4fa68bf05feeffc88cef613e5244aee47eace))
+- **style:** set Prettier `trailingComma` to `all` ([7d0a9bc](https://github.com/vidavidorra/repo-template/commit/7d0a9bc285d89f1bc18b2195d027331db06d936a))
+
 ### [1.0.5](https://github.com/vidavidorra/repo-template/compare/v1.0.4...v1.0.5) (2020-04-06)
 
 ### Bug Fixes
