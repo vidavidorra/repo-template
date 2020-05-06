@@ -55,8 +55,8 @@ Go through this checklist after creating your repository. It should only take a 
 
 - [ ] Is the `name` field correct?
 - [ ] Is the `description` field correct?
-- [ ] Is the `version` field correct?
-      Use `npm version 0.1.0 --git-tag-version=false` to set the version, `0.1.0` in this example.
+- [ ] Is the `version` field correct?  
+       Use `npm version 0.1.0 --git-tag-version=false` to set the version, `0.1.0` in this example.
 - [ ] Is the `author` field correct?
 - [ ] Have you added `keywords`?
 - [ ] Are the `repository.url`, `bugs` and `homepage` links correct?
@@ -68,17 +68,23 @@ Go through this checklist after creating your repository. It should only take a 
 
 ### Renovate
 
-- [ ] Is the repository added to the [GitHub Renovate](https://github.com/vidavidorra/github-renovate) [list of repositories](https://github.com/vidavidorra/github-renovate/blob/v1.0.2/src/renovate-config.js#L19)?
-- [ ] Is the Renovate GitHub App enabled on this repository?
-      Settings can be found in the _Installed GitHub Apps_ secion of the GitHub _Organization settings_ or in the _Applications_ section of the GitHub _Personal settings_.
-      Add the repository to the list of selected repositories.
+- [ ] Is the repository added to [GitHub Renovate](https://github.com/vidavidorra/github-renovate)'s [list of repositories](https://github.com/vidavidorra/github-renovate/blob/v1.0.2/src/renovate-config.js#L19)?
+- [ ] Is the Renovate GitHub App enabled on this repository?  
+       Settings can be found in the _Installed GitHub Apps_ secion of the GitHub _Organization settings_ or in the _Applications_ section of the GitHub _Personal settings_. Add the repository to the list of selected repositories.
+
+### GitHub settings
+
+- [ ] Is only the _Allow squash merging_ merge option selected?
+- [ ] Is _Automatically delete head branches_ enabled?
+- [ ] Are _Branch protection rules_ added on the `master` branch?  
+       Protection without any of the checkboxes checked.
 
 ### Language setup
 
 ### Typescript
 
-- [ ] Is there a `tsconfig.json` file?
-      See [vidavidorra/next-standard-version](https://github.com/vidavidorra/next-standard-version) for an example of the file.
+- [ ] Is there a `tsconfig.json` file?  
+       See [vidavidorra/next-standard-version](https://github.com/vidavidorra/next-standard-version) for an example of the file.
 
 ## License
 
