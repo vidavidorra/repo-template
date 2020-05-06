@@ -11,6 +11,7 @@ jobs:
       github.event.commits[0].message == 'chore(release): trigger release process [ci release][major]' ||
       github.event.commits[0].message == 'chore(release): trigger release process [ci release][minor]' ||
       github.event.commits[0].message == 'chore(release): trigger release process [ci release][patch]'
+    timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v2.1.0
@@ -23,7 +24,7 @@ jobs:
         with:
           node-version: '12.x'
       - name: Install project
-        run: npm ci
+        run: npm ci --ignore-scripts
       - name: Get release version
         run: |
           readonly COMMIT_MESSAGE="${{ github.event.commits[0].message }}"
@@ -42,6 +43,7 @@ jobs:
   release:
     needs: get-version
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v2.1.0
@@ -65,7 +67,7 @@ jobs:
         with:
           node-version: '12.x'
       - name: Install project
-        run: npm ci
+        run: npm ci --ignore-scripts
       - name: Release
         run: |
           readonly COMMIT_MESSAGE="${{ github.event.commits[0].message }}"
@@ -100,6 +102,7 @@ jobs:
             ${{ steps.changelog.outputs.changelog }}
   prevent-failed-status:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Prevent failed status when skipped
         run: |
