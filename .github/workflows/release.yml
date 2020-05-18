@@ -89,7 +89,10 @@ jobs:
       - name: Publish release
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
-        run: git push --follow-tags
+        run: |
+          git config --local user.name "vidavidorra-release"
+          git config --local user.email "65564857+vidavidorra-release@users.noreply.github.com"
+          git push --follow-tags
       - name: Publish GitHub release
         uses: actions/create-release@v1.1.0
         env:
