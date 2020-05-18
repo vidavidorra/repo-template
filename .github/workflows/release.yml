@@ -49,7 +49,7 @@ jobs:
         uses: actions/checkout@v2.1.0
         with:
           fetch-depth: 0
-          persist-credentials: false
+          token: ${{ secrets.RELEASE_TOKEN }}
       - name: Get VERSION
         uses: actions/download-artifact@v1.0.0
         with:
@@ -61,8 +61,8 @@ jobs:
         run: git fetch --tags
       - name: Setup Git user
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "vidavidorra-release"
+          git config --local user.email "65564857+vidavidorra-release@users.noreply.github.com"
       - name: Setup node
         uses: actions/setup-node@v1.4.2
         with:
@@ -87,16 +87,11 @@ jobs:
               | sed -z 's/\n/%0A/g;s/\r/%0D/g')"
           echo "::set-output name=changelog::${changelog}"
       - name: Publish release
-        env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
-        run: |
-          git config --local user.name "vidavidorra-release"
-          git config --local user.email "65564857+vidavidorra-release@users.noreply.github.com"
-          git push --follow-tags
+        run: git push --follow-tags
       - name: Publish GitHub release
         uses: actions/create-release@v1.1.0
         env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: v${{ steps.version.outputs.version }}
           release_name: v${{ steps.version.outputs.version }}
