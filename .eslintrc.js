@@ -1,13 +1,6 @@
-module.exports = {
-  extends: [
-    'eslint:recommended',
-    'plugin:@typescript-eslint/eslint-recommended',
-    'plugin:@typescript-eslint/recommended',
-    'prettier/@typescript-eslint',
-    'plugin:prettier/recommended',
-  ],
-  parser: '@typescript-eslint/parser',
-  plugins: ['@typescript-eslint', 'prettier', 'json'],
+const defaultConfig = {
+  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
+  plugins: ['prettier', 'json'],
   parserOptions: {
     sourceType: 'module',
   },
@@ -31,3 +24,25 @@ module.exports = {
     '!.*',
   ],
 };
+
+const config = defaultConfig;
+config.overrides = [
+  {
+    files: ['**/*.ts', '**/*.tsx'],
+    /**
+     * The Prettier recommended configuration must remain the configuration that
+     * is extended last. Therefore, this overrides `extends` completely.
+     */
+    extends: [
+      'eslint:recommended',
+      'plugin:@typescript-eslint/eslint-recommended',
+      'plugin:@typescript-eslint/recommended',
+      'prettier/@typescript-eslint',
+      'plugin:prettier/recommended',
+    ],
+    parser: '@typescript-eslint/parser',
+    plugins: defaultConfig.plugins.concat(['@typescript-eslint']),
+  },
+];
+
+module.exports = config;
