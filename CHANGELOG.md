@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.7](https://github.com/vidavidorra/repo-template/compare/v1.0.6...v1.0.7) (2020-05-18)
+
+### Bug Fixes
+
+- **release:** checkout using token ([5727071](https://github.com/vidavidorra/repo-template/commit/57270713b1c1cdef0196e986b2d5a7df3e9dc4b8))
+- **release:** release using token ([6f3996d](https://github.com/vidavidorra/repo-template/commit/6f3996d55cdf48c83790a746650f365e3a838530))
+- **release:** set vidavidorra-release git user ([33f5925](https://github.com/vidavidorra/repo-template/commit/33f59258e5bd584ecb3b7a35c044eb74530c0f81))
+
 ### [1.0.6](https://github.com/vidavidorra/repo-template/compare/v1.0.5...v1.0.6) (2020-05-06)
 
 ### Bug Fixes
