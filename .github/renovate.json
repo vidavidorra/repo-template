@@ -3,7 +3,8 @@
     "config:base",
     ":masterIssue",
     ":pinDependencies",
-    ":timezone(Europe/Amsterdam)"
+    ":timezone(Europe/Amsterdam)",
+    "schedule:monthly"
   ],
   "lockFileMaintenance": {
     "enabled": true,
@@ -15,8 +16,8 @@
   },
   "packageRules": [
     {
-      "depTypeList": ["devDependencies"],
-      "extends": ["schedule:monthly"]
+      "depTypeList": ["dependencies"],
+      "schedule": ["at any time"]
     }
   ],
   "prCreation": "not-pending"
