@@ -16,10 +16,25 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v2.1.0
         with:
-          node-version: '12.x'
+          node-version: 12
       - name: Install project
         run: npm ci --ignore-scripts
       - name: Lint
         run: npm run lint-es
       - name: Check formatting
         run: npm run format:check
+  release:
+    needs: lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+      - name: Setup node
+        uses: actions/setup-node@v2.1.0
+        with:
+          node-version: 12
+      - name: Install project
+        run: npm ci --ignore-scripts
+      - name: Release
+        run: npx --no-install semantic-release
