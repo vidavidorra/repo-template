@@ -1,4 +1,4 @@
-name: Lint
+name: Build
 on:
   push:
     branches:
@@ -37,4 +37,6 @@ jobs:
       - name: Install project
         run: npm ci --ignore-scripts
       - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx --no-install semantic-release
