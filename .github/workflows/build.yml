@@ -38,5 +38,5 @@ jobs:
         run: npm ci --ignore-scripts
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_GITHUB_TOKEN }}
         run: npx --no-install semantic-release
