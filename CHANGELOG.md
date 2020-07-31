@@ -1,3 +1,15 @@
+### [1.0.10](https://github.com/vidavidorra/repo-template/compare/v1.0.9...v1.0.10) (2020-07-31)
+
+
+### Bug Fixes
+
+* ignore change log during linting and formatting ([9df8e59](https://github.com/vidavidorra/repo-template/commit/9df8e596d10bec74c460b2c6776598c3ef0d9938))
+
+
+### Documentation
+
+* make change log consistent with semantic-release ([9fad818](https://github.com/vidavidorra/repo-template/commit/9fad8189d729c09fa5fcbebf72c0ebaffbbfc66f))
+
 ### [1.0.9](https://github.com/vidavidorra/repo-template/compare/v1.0.8...v1.0.9) (2020-07-31)
 
 
