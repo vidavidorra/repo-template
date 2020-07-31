@@ -26,7 +26,11 @@ jobs:
   release:
     needs: lint
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    # GitHub API requests can easy take a couple of seconds and the release can
+    # make lots of API requests when a release has a lot of commits. If every
+    # requests takes five seconds, which is on the high side for a request, this
+    # could perform 180 requests. This should be enough for most use cases.
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.1
