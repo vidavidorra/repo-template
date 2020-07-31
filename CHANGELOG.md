@@ -3,12 +3,12 @@
 
 ### Bug Fixes
 
-* **ci:** enable worflows on Renovate branches ([74a3693](https://github.com/vidavidorra/repo-template/commit/74a3693f565c1cf998101868d1de3a5389852a67))
+* **ci:** enable workflows on Renovate branches ([74a3693](https://github.com/vidavidorra/repo-template/commit/74a3693f565c1cf998101868d1de3a5389852a67))
 * **eslint:** remove `plugin:@typescript-eslint/eslint-recommended` ([b915516](https://github.com/vidavidorra/repo-template/commit/b915516cc3123661236d5019aa6649e16ff38dde))
 * **release:** install and configure semantic-release ([4c79e2c](https://github.com/vidavidorra/repo-template/commit/4c79e2cd1e3e96d082f6db0c35fbc1735f1f0c7e))
 * **renovate:** disable masterIssueApproval for major updates ([32d6524](https://github.com/vidavidorra/repo-template/commit/32d6524bc375c0ccdda0b12bb47ebb7fb0c5986c))
 * **renovate:** ignore hourly PR limit from preset ([1dc9eb0](https://github.com/vidavidorra/repo-template/commit/1dc9eb053fe7f74ad7786a886cc4d9849b8800f2))
-* **renovate:** schedule montly by default and any time for dependencies ([9a015c3](https://github.com/vidavidorra/repo-template/commit/9a015c36314bf293ace554a073c96d85ab132928))
+* **renovate:** schedule monthly by default and any time for dependencies ([9a015c3](https://github.com/vidavidorra/repo-template/commit/9a015c36314bf293ace554a073c96d85ab132928))
 * **renovate:** schedule on the first day of the month ([5ef6274](https://github.com/vidavidorra/repo-template/commit/5ef62745c63fdfe47683f742825cea22e757cc5a))
 
 
@@ -18,10 +18,6 @@
 * combine lint and release workflows and use semantic-release ([f3441aa](https://github.com/vidavidorra/repo-template/commit/f3441aae820b73916d391cb6932bd072ce1da4d9))
 * make sure the release step uses its own credentials ([dbb29b7](https://github.com/vidavidorra/repo-template/commit/dbb29b7891daf418d9a01d1bad6af45839d80711))
 * use SEMANTIC_RELEASE_GITHUB_TOKEN for release ([29cc325](https://github.com/vidavidorra/repo-template/commit/29cc325c73be36743a643ca61ee41eb77dc7a84a))
-
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 ### [1.0.8](https://github.com/vidavidorra/repo-template/compare/v1.0.7...v1.0.8) (2020-05-18)
 
@@ -42,7 +38,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 - **ci:** add check for formatting ([939d34a](https://github.com/vidavidorra/repo-template/commit/939d34a8e4a493d85323fbdeb2be9cd199db2dd7))
-- **ci:** add timeouts to workfows ([90eef59](https://github.com/vidavidorra/repo-template/commit/90eef5982cda5a8d120a61ad23060b31501058dc))
+- **ci:** add timeouts to workflows ([90eef59](https://github.com/vidavidorra/repo-template/commit/90eef5982cda5a8d120a61ad23060b31501058dc))
 - **ci:** use --ignore-scripts flag on npm install (changes in 3bb9d19) ([5034e24](https://github.com/vidavidorra/repo-template/commit/5034e242201975a20ed55e2c5e8709b80693db2b))
 - **docs:** add GitHub settings section ([b9d37a5](https://github.com/vidavidorra/repo-template/commit/b9d37a51ebb0e94de674213cb6e2aedc109a515f))
 - **docs:** add Renovate section ([d0bd8f5](https://github.com/vidavidorra/repo-template/commit/d0bd8f5b61318b45aa87c969b9d8d4af1678f0af))
@@ -84,7 +80,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-- **deps:** add gitattributes for Prettier major update changes ([cdfa4af](https://github.com/vidavidorra/repo-template/commit/cdfa4af68d887fca83395b75fadd0b4b1889c5b1))
+- **deps:** add git attributes for Prettier major update changes ([cdfa4af](https://github.com/vidavidorra/repo-template/commit/cdfa4af68d887fca83395b75fadd0b4b1889c5b1))
 - **lint:** update lint config to run prettier ([6f961cb](https://github.com/vidavidorra/repo-template/commit/6f961cba94a4f1d29b8fe9a3afa32e0f90d9f0c1))
 - **release:** use updated release script without github-push-action dep ([7453445](https://github.com/vidavidorra/repo-template/commit/74534458a1e83b42bc8b8524efda81c5d9df0f10))
 - remove @types/node package ([da5668e](https://github.com/vidavidorra/repo-template/commit/da5668ed2673a968ad987c435c137d3b20a7adb3))
