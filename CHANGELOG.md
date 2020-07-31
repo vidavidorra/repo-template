@@ -1,3 +1,24 @@
+### [1.0.9](https://github.com/vidavidorra/repo-template/compare/v1.0.8...v1.0.9) (2020-07-31)
+
+
+### Bug Fixes
+
+* **ci:** enable worflows on Renovate branches ([74a3693](https://github.com/vidavidorra/repo-template/commit/74a3693f565c1cf998101868d1de3a5389852a67))
+* **eslint:** remove `plugin:@typescript-eslint/eslint-recommended` ([b915516](https://github.com/vidavidorra/repo-template/commit/b915516cc3123661236d5019aa6649e16ff38dde))
+* **release:** install and configure semantic-release ([4c79e2c](https://github.com/vidavidorra/repo-template/commit/4c79e2cd1e3e96d082f6db0c35fbc1735f1f0c7e))
+* **renovate:** disable masterIssueApproval for major updates ([32d6524](https://github.com/vidavidorra/repo-template/commit/32d6524bc375c0ccdda0b12bb47ebb7fb0c5986c))
+* **renovate:** ignore hourly PR limit from preset ([1dc9eb0](https://github.com/vidavidorra/repo-template/commit/1dc9eb053fe7f74ad7786a886cc4d9849b8800f2))
+* **renovate:** schedule montly by default and any time for dependencies ([9a015c3](https://github.com/vidavidorra/repo-template/commit/9a015c36314bf293ace554a073c96d85ab132928))
+* **renovate:** schedule on the first day of the month ([5ef6274](https://github.com/vidavidorra/repo-template/commit/5ef62745c63fdfe47683f742825cea22e757cc5a))
+
+
+### Continuous Integration
+
+* add GITHUB_TOKEN to release job of build workflow ([931ec82](https://github.com/vidavidorra/repo-template/commit/931ec82ac72540435eebc010a4cca53770909e4d))
+* combine lint and release workflows and use semantic-release ([f3441aa](https://github.com/vidavidorra/repo-template/commit/f3441aae820b73916d391cb6932bd072ce1da4d9))
+* make sure the release step uses its own credentials ([dbb29b7](https://github.com/vidavidorra/repo-template/commit/dbb29b7891daf418d9a01d1bad6af45839d80711))
+* use SEMANTIC_RELEASE_GITHUB_TOKEN for release ([29cc325](https://github.com/vidavidorra/repo-template/commit/29cc325c73be36743a643ca61ee41eb77dc7a84a))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
