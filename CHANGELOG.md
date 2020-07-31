@@ -1,3 +1,10 @@
+### [1.0.11](https://github.com/vidavidorra/repo-template/compare/v1.0.10...v1.0.11) (2020-07-31)
+
+
+### Continuous Integration
+
+* **release:** increase build workflow to 15 minutes ([74e807d](https://github.com/vidavidorra/repo-template/commit/74e807dadb71d31abaa8e3aed432ac060ac463da))
+
 ### [1.0.10](https://github.com/vidavidorra/repo-template/compare/v1.0.9...v1.0.10) (2020-07-31)
 
 
