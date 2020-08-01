@@ -1,6 +1,10 @@
 const defaultConfig = {
-  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
-  plugins: ['prettier', 'json'],
+  extends: [
+    'eslint:recommended',
+    'plugin:json/recommended',
+    'plugin:prettier/recommended',
+  ],
+  plugins: [],
   parserOptions: {
     sourceType: 'module',
   },
