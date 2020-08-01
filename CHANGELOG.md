@@ -1,3 +1,10 @@
+### [1.0.12](https://github.com/vidavidorra/repo-template/compare/v1.0.11...v1.0.12) (2020-08-01)
+
+
+### Continuous Integration
+
+* **renovate:** auto-merge devDependencies ([7629beb](https://github.com/vidavidorra/repo-template/commit/7629beb591ddfdef6507598705a440089db950c9))
+
 ### [1.0.11](https://github.com/vidavidorra/repo-template/compare/v1.0.10...v1.0.11) (2020-07-31)
 
 
