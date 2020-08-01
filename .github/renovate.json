@@ -15,10 +15,11 @@
   },
   "packageRules": [
     {
-      "depTypeList": ["dependencies"],
-      "schedule": ["at any time"]
+      "description": "Auto-merge devDependencies",
+      "depTypeList": ["devDependencies"],
+      "updateTypes": ["pin", "digest", "patch", "minor"],
+      "automerge": true
     }
   ],
-  "prCreation": "not-pending",
-  "schedule": ["on the first day of the month"]
+  "prCreation": "not-pending"
 }
