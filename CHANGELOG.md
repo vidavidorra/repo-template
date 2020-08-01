@@ -1,3 +1,15 @@
+### [1.0.13](https://github.com/vidavidorra/repo-template/compare/v1.0.12...v1.0.13) (2020-08-01)
+
+
+### Bug Fixes
+
+* use ESLint ignore file for ESLint and Prettier ([05c4893](https://github.com/vidavidorra/repo-template/commit/05c48938c8c0007a76a53aa12ffce3a8c1c1bb0d))
+* use json as extention in ESLint ([ca334fe](https://github.com/vidavidorra/repo-template/commit/ca334fed58fa86633c268f64a7f6e83e0f73129c))
+* **deps:** remove unused `chalk-cli` and `concurrently` packages ([ae884e6](https://github.com/vidavidorra/repo-template/commit/ae884e60d5212a27962c13aa47b0be4ae95cdd71))
+* also check non-ESLint formatting during lint script ([384c3c2](https://github.com/vidavidorra/repo-template/commit/384c3c217fc32e325fbab25039f8bd3b68272af8))
+* format files during lint-staged for JS, TS and JSON files ([09f5b5e](https://github.com/vidavidorra/repo-template/commit/09f5b5e0ed5b220b3fa06e796ce0b5da3a8f8764))
+* remove duplicate `.ts` extention from lint-staged ([a745e60](https://github.com/vidavidorra/repo-template/commit/a745e6024645c24cc622208392f6ed0a20e97e27))
+
 ### [1.0.12](https://github.com/vidavidorra/repo-template/compare/v1.0.11...v1.0.12) (2020-08-01)
 
 
