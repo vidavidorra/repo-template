@@ -16,17 +16,6 @@ const defaultConfig = {
     'prettier/prettier': 'error',
     'sort-imports': 'error',
   },
-  ignorePatterns: [
-    '.git/',
-    '.vscode',
-    'build/',
-    'dist/',
-    'coverage/',
-    'LICENSE.md',
-    'modules/',
-    'node_modules/',
-    '!.*',
-  ],
 };
 
 const config = defaultConfig;

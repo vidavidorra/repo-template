@@ -10,8 +10,8 @@
     "lint-es:file": "eslint --ext .ts,.tsx,.js,.jsx,.json",
     "lint-es:fix": "eslint --ext .ts,.tsx,.js,.jsx,.json --fix .",
     "lint-es:file:fix": "eslint --ext .ts,.tsx,.js,.jsx,.json --fix",
-    "format": "prettier --write \"**/*.{js,jsx,vue,ts,css,less,scss,html,htm,json,md,markdown,yml,yaml}\"",
-    "format:check": "prettier --check \"**/*.{js,jsx,vue,ts,css,less,scss,html,htm,json,md,markdown,yml,yaml}\"",
+    "format": "prettier --ignore-path .eslintignore --write \"**/*.{js,jsx,vue,ts,css,less,scss,html,htm,json,md,markdown,yml,yaml}\"",
+    "format:check": "prettier --ignore-path .eslintignore --check \"**/*.{js,jsx,vue,ts,css,less,scss,html,htm,json,md,markdown,yml,yaml}\"",
     "format:file": "prettier --write"
   },
   "repository": {
