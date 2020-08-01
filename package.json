@@ -4,8 +4,8 @@
   "description": "A template for creating new repositories.",
   "private": true,
   "scripts": {
-    "lint": "concurrently npm:lint-es",
-    "lint:fix": "concurrently npm:lint-es:fix",
+    "lint": "run-p format:check lint-es",
+    "lint:fix": "run-s format lint-es:fix",
     "lint-es": "eslint --ext .ts,.tsx,.js,.jsx,.json .",
     "lint-es:file": "eslint --ext .ts,.tsx,.js,.jsx,.json",
     "lint-es:fix": "eslint --ext .ts,.tsx,.js,.jsx,.json --fix .",
