@@ -1,3 +1,10 @@
+### [1.0.14](https://github.com/vidavidorra/repo-template/compare/v1.0.13...v1.0.14) (2020-08-09)
+
+
+### Bug Fixes
+
+* **release:** release patch on `chore(deps)` commits ([766a570](https://github.com/vidavidorra/repo-template/commit/766a5702c38a47d3b48f1c7da9ee121f8572a172))
+
 ### [1.0.13](https://github.com/vidavidorra/repo-template/compare/v1.0.12...v1.0.13) (2020-08-01)
 
 
