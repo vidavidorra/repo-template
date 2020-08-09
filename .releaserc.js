@@ -8,6 +8,7 @@ module.exports = {
           { type: 'perf', release: 'patch' },
           { type: 'revert', release: 'patch' },
           { type: 'docs', release: 'patch' },
+          { type: 'chore', scope: 'deps', release: 'patch' },
           { type: 'refactor', release: 'patch' },
           { type: 'test', release: 'patch' },
           { type: 'build', release: 'patch' },
