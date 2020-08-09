@@ -1,3 +1,10 @@
+### [1.0.15](https://github.com/vidavidorra/repo-template/compare/v1.0.14...v1.0.15) (2020-08-09)
+
+
+### Bug Fixes
+
+* **release:** include style and chore commits in release notes ([e711f97](https://github.com/vidavidorra/repo-template/commit/e711f97987c28bcfae87bba2e86eb0e6dc00a9d4))
+
 ### [1.0.14](https://github.com/vidavidorra/repo-template/compare/v1.0.13...v1.0.14) (2020-08-09)
 
 
