@@ -1,3 +1,10 @@
+### [1.0.19](https://github.com/vidavidorra/repo-template/compare/v1.0.18...v1.0.19) (2020-08-16)
+
+
+### Miscellaneous Chores
+
+* **deps:** update commitlint monorepo to v9.1.2 ([#83](https://github.com/vidavidorra/repo-template/issues/83)) ([2d44b38](https://github.com/vidavidorra/repo-template/commit/2d44b386adf68dca4fc1fa3298624e04f0c7f5c1))
+
 ### [1.0.18](https://github.com/vidavidorra/repo-template/compare/v1.0.17...v1.0.18) (2020-08-14)
 
 
