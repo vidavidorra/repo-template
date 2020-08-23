@@ -1,3 +1,10 @@
+### [1.0.22](https://github.com/vidavidorra/repo-template/compare/v1.0.21...v1.0.22) (2020-08-23)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency wagoid/commitlint-github-action to v2.0.2 ([#86](https://github.com/vidavidorra/repo-template/issues/86)) ([e05bac5](https://github.com/vidavidorra/repo-template/commit/e05bac544dbcefe97113ed25ed814fb8ba46409d))
+
 ### [1.0.21](https://github.com/vidavidorra/repo-template/compare/v1.0.20...v1.0.21) (2020-08-21)
 
 
