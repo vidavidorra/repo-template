@@ -1,3 +1,10 @@
+### [1.0.23](https://github.com/vidavidorra/repo-template/compare/v1.0.22...v1.0.23) (2020-08-24)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency typescript to v4 ([#87](https://github.com/vidavidorra/repo-template/issues/87)) ([c9634a5](https://github.com/vidavidorra/repo-template/commit/c9634a51d8d7dc41d5f48b8163a250a040e97680))
+
 ### [1.0.22](https://github.com/vidavidorra/repo-template/compare/v1.0.21...v1.0.22) (2020-08-23)
 
 
