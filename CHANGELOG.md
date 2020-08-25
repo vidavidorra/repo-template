@@ -1,3 +1,10 @@
+### [1.0.26](https://github.com/vidavidorra/repo-template/compare/v1.0.25...v1.0.26) (2020-08-25)
+
+
+### Miscellaneous Chores
+
+* **deps:** update typescript-eslint monorepo to v3.10.1 ([#90](https://github.com/vidavidorra/repo-template/issues/90)) ([bc576bf](https://github.com/vidavidorra/repo-template/commit/bc576bff15090602a564e7e9fa2307973afb5442))
+
 ### [1.0.25](https://github.com/vidavidorra/repo-template/compare/v1.0.24...v1.0.25) (2020-08-24)
 
 
