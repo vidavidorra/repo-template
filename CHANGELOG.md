@@ -1,3 +1,10 @@
+### [1.0.29](https://github.com/vidavidorra/repo-template/compare/v1.0.28...v1.0.29) (2020-08-26)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency prettier to v2.1.1 ([#93](https://github.com/vidavidorra/repo-template/issues/93)) ([ce9f496](https://github.com/vidavidorra/repo-template/commit/ce9f4961d61c9f9128f6bfc1e05e73425aa3e40d))
+
 ### [1.0.28](https://github.com/vidavidorra/repo-template/compare/v1.0.27...v1.0.28) (2020-08-25)
 
 
