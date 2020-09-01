@@ -1,3 +1,10 @@
+### [1.0.30](https://github.com/vidavidorra/repo-template/compare/v1.0.29...v1.0.30) (2020-09-01)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency eslint to v7.8.0 ([#94](https://github.com/vidavidorra/repo-template/issues/94)) ([37aa06b](https://github.com/vidavidorra/repo-template/commit/37aa06b577defe92caeb71b1dcb889304d224224))
+
 ### [1.0.29](https://github.com/vidavidorra/repo-template/compare/v1.0.28...v1.0.29) (2020-08-26)
 
 
