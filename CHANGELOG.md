@@ -1,3 +1,10 @@
+### [1.0.32](https://github.com/vidavidorra/repo-template/compare/v1.0.31...v1.0.32) (2020-09-04)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency lint-staged to v10.3.0 ([#96](https://github.com/vidavidorra/repo-template/issues/96)) ([07c734e](https://github.com/vidavidorra/repo-template/commit/07c734efc4f90e65eb1a1240408b8872ec35fc9f))
+
 ### [1.0.31](https://github.com/vidavidorra/repo-template/compare/v1.0.30...v1.0.31) (2020-09-01)
 
 
