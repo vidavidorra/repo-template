@@ -1,3 +1,11 @@
+### [1.0.35](https://github.com/vidavidorra/repo-template/compare/v1.0.34...v1.0.35) (2020-09-06)
+
+
+### Bug Fixes
+
+* **badges:** add semantic-release badge ([f6baa41](https://github.com/vidavidorra/repo-template/commit/f6baa413fcda284770d59105df02fa2a83da41bb))
+* **readme:** add semantic-release and Renovate badges ([ba8c366](https://github.com/vidavidorra/repo-template/commit/ba8c366dc41fa246e69c4df49d4577d1690f14ec))
+
 ### [1.0.34](https://github.com/vidavidorra/repo-template/compare/v1.0.33...v1.0.34) (2020-09-06)
 
 
