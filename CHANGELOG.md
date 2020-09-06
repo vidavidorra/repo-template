@@ -1,3 +1,10 @@
+### [1.0.36](https://github.com/vidavidorra/repo-template/compare/v1.0.35...v1.0.36) (2020-09-06)
+
+
+### Bug Fixes
+
+* **lint:** remove TypeScript linting and dependencies ([27477da](https://github.com/vidavidorra/repo-template/commit/27477da61842ff3f8e805cc7bb07f6ba3fa1bd2f))
+
 ### [1.0.35](https://github.com/vidavidorra/repo-template/compare/v1.0.34...v1.0.35) (2020-09-06)
 
 
