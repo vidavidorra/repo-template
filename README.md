@@ -74,10 +74,17 @@ Go through this checklist after creating your repository. It should only take a 
 
 ### GitHub settings
 
-- [ ] Is only the _Allow squash merging_ merge option selected?
+**Options**
+
+- [ ] Is the _Wikis_ option disabled?
+- [ ] Is the _Allow merge commits_ merge option disabled?
+- [ ] Is the _Allow squash merging_ merge option enabled?
+- [ ] Is the _Allow rebase merging_ merge option disabled?
 - [ ] Is _Automatically delete head branches_ enabled?
-- [ ] Are _Branch protection rules_ added on the `master` branch?  
-       Protection without any of the checkboxes checked.
+
+**Branches**
+
+- [ ] Are _Branch protection rules_ added on the `master` branch?
 
 ### Language setup
 
