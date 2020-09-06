@@ -1,3 +1,10 @@
+### [1.0.34](https://github.com/vidavidorra/repo-template/compare/v1.0.33...v1.0.34) (2020-09-06)
+
+
+### Bug Fixes
+
+* **github:** group GitHub settings on their settings tab ([73f11ef](https://github.com/vidavidorra/repo-template/commit/73f11efd985dfcea2c30f7acd7b5f85f4f91e394))
+
 ### [1.0.33](https://github.com/vidavidorra/repo-template/compare/v1.0.32...v1.0.33) (2020-09-04)
 
 
