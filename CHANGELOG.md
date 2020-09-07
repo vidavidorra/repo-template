@@ -1,3 +1,10 @@
+### [1.0.37](https://github.com/vidavidorra/repo-template/compare/v1.0.36...v1.0.37) (2020-09-07)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency husky to v4.3.0 ([#98](https://github.com/vidavidorra/repo-template/issues/98)) ([a09967e](https://github.com/vidavidorra/repo-template/commit/a09967e26499876ab98e4c6f07f55f22471dde2f))
+
 ### [1.0.36](https://github.com/vidavidorra/repo-template/compare/v1.0.35...v1.0.36) (2020-09-06)
 
 
