@@ -1,6 +1,6 @@
 {
   "name": "repo-template",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "description": "A template for creating new repositories.",
   "private": true,
   "scripts": {
