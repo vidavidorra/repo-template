@@ -1,3 +1,10 @@
+### [1.0.41](https://github.com/vidavidorra/repo-template/compare/v1.0.40...v1.0.41) (2020-09-17)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency semantic-release to v17.1.2 ([#105](https://github.com/vidavidorra/repo-template/issues/105)) ([ff323ba](https://github.com/vidavidorra/repo-template/commit/ff323ba48c85126dc002da4a40aeecea94469614))
+
 ### [1.0.40](https://github.com/vidavidorra/repo-template/compare/v1.0.39...v1.0.40) (2020-09-16)
 
 
