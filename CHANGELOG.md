@@ -1,3 +1,11 @@
+### [1.0.42](https://github.com/vidavidorra/repo-template/compare/v1.0.41...v1.0.42) (2020-09-24)
+
+
+### Continuous Integration
+
+* **release:** disable release on chore commits ([41f92f2](https://github.com/vidavidorra/repo-template/commit/41f92f21b950508175b9ba7f12bb4ca4a01768e2))
+* **renovate:** auto-merge `dependencies` ([5975bef](https://github.com/vidavidorra/repo-template/commit/5975bef88ed4043216acd2b35cae3157a972344c))
+
 ### [1.0.41](https://github.com/vidavidorra/repo-template/compare/v1.0.40...v1.0.41) (2020-09-17)
 
 
