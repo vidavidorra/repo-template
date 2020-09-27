@@ -7,6 +7,7 @@ A template for creating new repositories.
 ## Table of contents
 
 - [Badges](#badges)
+- [Usage](#usage)
 - [Setup](#setup)
 - [Checklist](#checklist)
 - [License](#license)
@@ -22,9 +23,27 @@ A template for creating new repositories.
 | <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint%20commit%20messages?style=flat-square"></a> | Lint commit messages | GitHub Actions       |
 | <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint?style=flat-square"></a>                     | Lint                 | GitHub Actions       |
 
+## Usage
+
+There are two options to use this template.
+
+1. Create new repository on GitHub and select this as template.
+2. Create a new empty repository and merge this template.
+   ```shell
+   $ git commit --allow-empty -m 'chore: create HEAD'
+   $ git remote add -t master upstream git@github.com:vidavidorra/repo-template.git
+   $ export REPO_TEMPLATE_TAG="$(git -c 'versionsort.suffix=-' ls-remote --exit-code --refs --sort='version:refname' --tags upstream 'v*.*.*' | tail --lines=1 | cut --delimiter='/' --fields=3)"
+   $ git fetch --no-tags upstream tag "${REPO_TEMPLATE_TAG}"
+   $ git merge --allow-unrelated-histories --squash "${REPO_TEMPLATE_TAG}"
+   $ git commit -m "chore: initialise from vidavidorra/repo-template@${REPO_TEMPLATE_TAG}" -m "Vidavidorra repo template release/tag: https://github.com/ vidavidorra/repo-template/releases/tag/${REPO_TEMPLATE_TAG}."
+   $ git tag --delete "${REPO_TEMPLATE_TAG}"
+   $ git remote remove upstream
+   $ git push
+   ```
+
 ## Setup
 
-After a new repository using this template has been created, make the .
+After a new repository using this template has been created, make the following changes.
 
 1. Remove files containing content of the template.
    ```shell
