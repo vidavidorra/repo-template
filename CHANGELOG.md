@@ -1,3 +1,20 @@
+### [1.0.43](https://github.com/vidavidorra/repo-template/compare/v1.0.42...v1.0.43) (2020-09-27)
+
+
+### Bug Fixes
+
+* use [@vidavidorra](https://github.com/vidavidorra) commitlint config ([491e239](https://github.com/vidavidorra/repo-template/commit/491e2399d6b99caffd8a4debab9c310c344be87c))
+
+
+### Miscellaneous Chores
+
+* **deps:** update commitlint monorepo to v11 ([#101](https://github.com/vidavidorra/repo-template/issues/101)) ([1eef33e](https://github.com/vidavidorra/repo-template/commit/1eef33eb6d0c7defbc5fba3468c8687c93c200be))
+* **deps:** update dependency actions/checkout to v2.3.3 ([#106](https://github.com/vidavidorra/repo-template/issues/106)) ([fb8bee1](https://github.com/vidavidorra/repo-template/commit/fb8bee19cba3334c1e76bb81a2101d6aaffbd093))
+* **deps:** update dependency eslint to v7.10.0 ([#108](https://github.com/vidavidorra/repo-template/issues/108)) ([45d601c](https://github.com/vidavidorra/repo-template/commit/45d601c021ff5e4f4eb4f0505eadf36bca8f8a96))
+* **deps:** update dependency eslint-config-prettier to v6.12.0 ([#107](https://github.com/vidavidorra/repo-template/issues/107)) ([1e28d6c](https://github.com/vidavidorra/repo-template/commit/1e28d6c2792d175ab7ff026dc8a1f3294c928580))
+* **deps:** update dependency wagoid/commitlint-github-action to v2.1.0 ([#102](https://github.com/vidavidorra/repo-template/issues/102)) ([0698982](https://github.com/vidavidorra/repo-template/commit/0698982aef173533e45453dc6bb9224eb3b42fbd))
+* remove unnecessary brackets from `.releaserc.js` ([fa412f5](https://github.com/vidavidorra/repo-template/commit/fa412f57f3473181594f93e92df3da811dd4a843))
+
 ### [1.0.42](https://github.com/vidavidorra/repo-template/compare/v1.0.41...v1.0.42) (2020-09-24)
 
 
