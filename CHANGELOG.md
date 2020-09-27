@@ -1,3 +1,10 @@
+### [1.0.44](https://github.com/vidavidorra/repo-template/compare/v1.0.43...v1.0.44) (2020-09-27)
+
+
+### Continuous Integration
+
+* use `NODE_PATH` to set 'custom' commitlint dependencies ([3901854](https://github.com/vidavidorra/repo-template/commit/3901854fee6f27b208754720864712493e4a4b8b))
+
 ### [1.0.43](https://github.com/vidavidorra/repo-template/compare/v1.0.42...v1.0.43) (2020-09-27)
 
 
