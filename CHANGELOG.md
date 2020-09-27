@@ -1,3 +1,10 @@
+### [1.0.45](https://github.com/vidavidorra/repo-template/compare/v1.0.44...v1.0.45) (2020-09-27)
+
+
+### Documentation
+
+* add docs on using this template in a repository ([5b5d61b](https://github.com/vidavidorra/repo-template/commit/5b5d61bb3f6bcc66487533a8875b5f2900ca865c))
+
 ### [1.0.44](https://github.com/vidavidorra/repo-template/compare/v1.0.43...v1.0.44) (2020-09-27)
 
 
