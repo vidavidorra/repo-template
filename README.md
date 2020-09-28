@@ -21,7 +21,7 @@ A template for creating new repositories.
 | <a href="https://github.com/semantic-release/semantic-release"><img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square"></a>               | Version management   | `semantic-release`   |
 | <a href="https://renovatebot.com"><img alt="Renovate enabled" src="https://img.shields.io/badge/renovate-enabled-brightgreen.svg?style=flat-square"></a>                                                                       | Dependencies         | Renovate             |
 | <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint%20commit%20messages?style=flat-square"></a> | Lint commit messages | GitHub Actions       |
-| <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint?style=flat-square"></a>                     | Lint                 | GitHub Actions       |
+| <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Build?style=flat-square"></a>                    | Build                | GitHub Actions       |
 
 ## Usage
 
