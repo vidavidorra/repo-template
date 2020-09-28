@@ -16,7 +16,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v2.1.1
         with:
-          node-version: 12
+          node-version: 14
       - name: Install project
         run: npm ci --ignore-scripts
       - name: Lint
@@ -38,7 +38,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v2.1.1
         with:
-          node-version: 12
+          node-version: 14
       - name: Install project
         run: npm ci --ignore-scripts
       - name: Release
