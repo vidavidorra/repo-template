@@ -1,3 +1,10 @@
+### [1.0.47](https://github.com/vidavidorra/repo-template/compare/v1.0.46...v1.0.47) (2020-09-28)
+
+
+### Documentation
+
+* fix build workflow name in its badge ([b854b8d](https://github.com/vidavidorra/repo-template/commit/b854b8d092f591233563dcf784167e084f9c78a2))
+
 ### [1.0.46](https://github.com/vidavidorra/repo-template/compare/v1.0.45...v1.0.46) (2020-09-28)
 
 
