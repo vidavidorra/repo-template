@@ -1,3 +1,11 @@
+### [1.0.46](https://github.com/vidavidorra/repo-template/compare/v1.0.45...v1.0.46) (2020-09-28)
+
+
+### Continuous Integration
+
+* only run `lint` in the lint job as it also checks the formatting ([ba0e649](https://github.com/vidavidorra/repo-template/commit/ba0e64901aec9fb02ad360fac8952a566f8ec8de))
+* update build workflow to Node v14 ([d6687c8](https://github.com/vidavidorra/repo-template/commit/d6687c81f1fc7010be844c587f34ac005a176d92))
+
 ### [1.0.45](https://github.com/vidavidorra/repo-template/compare/v1.0.44...v1.0.45) (2020-09-27)
 
 
