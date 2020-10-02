@@ -1,14 +1,14 @@
 {
   "extends": [
     "config:base",
-    ":masterIssue",
+    ":dependencyDashboard",
     ":pinDependencies",
     ":timezone(Europe/Amsterdam)"
   ],
   "ignorePresets": [":prHourlyLimit2"],
   "lockFileMaintenance": {
     "enabled": true,
-    "masterIssueApproval": true
+    "dependencyDashboardApproval": true
   },
   "major": {
     "stabilityDays": 3
