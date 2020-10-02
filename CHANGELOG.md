@@ -1,3 +1,16 @@
+### [1.0.48](https://github.com/vidavidorra/repo-template/compare/v1.0.47...v1.0.48) (2020-10-02)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.8 ([#109](https://github.com/vidavidorra/repo-template/issues/109)) ([5f1be0f](https://github.com/vidavidorra/repo-template/commit/5f1be0f4da5c39d7811278437045ed9bf7b679de))
+* **deps:** update dependency actions/setup-node to v2.1.2 ([#111](https://github.com/vidavidorra/repo-template/issues/111)) ([0c309f0](https://github.com/vidavidorra/repo-template/commit/0c309f03776817d3e823996d6a5519d0862ee0a7))
+
+
+### Continuous Integration
+
+* **renovate:** migrate config to Renovate > v21.28.0 ([556cd2c](https://github.com/vidavidorra/repo-template/commit/556cd2cec05174cef961873cafa6eaafc21c110a))
+
 ### [1.0.47](https://github.com/vidavidorra/repo-template/compare/v1.0.46...v1.0.47) (2020-09-28)
 
 
