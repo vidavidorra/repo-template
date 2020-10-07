@@ -1,3 +1,22 @@
+## [1.1.0](https://github.com/vidavidorra/repo-template/compare/v1.0.48...v1.1.0) (2020-10-07)
+
+
+### Features
+
+* **gitignore:** add Go ignore ([218ad98](https://github.com/vidavidorra/repo-template/commit/218ad9862eb55b7056e0c27b8e01653ee039789f))
+* **gitignore:** add Visual Studio Code ignore ([53db31d](https://github.com/vidavidorra/repo-template/commit/53db31d23eca2219d77fcb878d3154752162e4fd))
+
+
+### Bug Fixes
+
+* **gitignore:** update ignores from gitignore.io ([eaaa06c](https://github.com/vidavidorra/repo-template/commit/eaaa06c7a9fe7c1c77460321ea7286ce3de0a734))
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.10 ([#113](https://github.com/vidavidorra/repo-template/issues/113)) ([617fdc5](https://github.com/vidavidorra/repo-template/commit/617fdc5e6c645d7a677f845ecfccb7a8b7dcc21d))
+* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.9 ([#112](https://github.com/vidavidorra/repo-template/issues/112)) ([b97a539](https://github.com/vidavidorra/repo-template/commit/b97a5398f12330fd92b1816ece7c2235871f86d0))
+
 ### [1.0.48](https://github.com/vidavidorra/repo-template/compare/v1.0.47...v1.0.48) (2020-10-02)
 
 
