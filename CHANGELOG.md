@@ -1,3 +1,18 @@
+### [1.1.1](https://github.com/vidavidorra/repo-template/compare/v1.1.0...v1.1.1) (2020-10-14)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.12 ([#114](https://github.com/vidavidorra/repo-template/issues/114)) ([5eb3e56](https://github.com/vidavidorra/repo-template/commit/5eb3e5693094a83006cf709c70955fe3db7bb87e))
+* **deps:** update dependency eslint to v7.11.0 ([#115](https://github.com/vidavidorra/repo-template/issues/115)) ([3616674](https://github.com/vidavidorra/repo-template/commit/3616674b49f94812cce32aaa5e01d1fb8275f9f9))
+* **deps:** update dependency semantic-release to v17.2.0 ([#116](https://github.com/vidavidorra/repo-template/issues/116)) ([9495c2e](https://github.com/vidavidorra/repo-template/commit/9495c2e4a4aacf0b54b92ac3cf947fc753dbdb22))
+* **deps:** update dependency semantic-release to v17.2.1 ([#117](https://github.com/vidavidorra/repo-template/issues/117)) ([f37d323](https://github.com/vidavidorra/repo-template/commit/f37d3236076bd3b913570801d020f8aa588b3c99))
+
+
+### Documentation
+
+* add logos to readme badges ([ba44b82](https://github.com/vidavidorra/repo-template/commit/ba44b82d64072e4f0edf919b0aeae55a91ccf851))
+
 ## [1.1.0](https://github.com/vidavidorra/repo-template/compare/v1.0.48...v1.1.0) (2020-10-07)
 
 
