@@ -1,3 +1,18 @@
+### [1.1.2](https://github.com/vidavidorra/repo-template/compare/v1.1.1...v1.1.2) (2020-10-19)
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.13 ([#121](https://github.com/vidavidorra/repo-template/issues/121)) ([dacbafb](https://github.com/vidavidorra/repo-template/commit/dacbafbae2c837fdec2f41aea3a7acf8ee6ade7b))
+* **deps:** update dependency eslint-config-prettier to v6.13.0 ([#119](https://github.com/vidavidorra/repo-template/issues/119)) ([6c4766c](https://github.com/vidavidorra/repo-template/commit/6c4766cfe0f901c193726de87c68d8f6cf2ee79c))
+* **deps:** update dependency lint-staged to v10.4.1 ([#118](https://github.com/vidavidorra/repo-template/issues/118)) ([f28a375](https://github.com/vidavidorra/repo-template/commit/f28a375213c0cd1c3b4c49c405a64f034e18277f))
+* **deps:** update dependency lint-staged to v10.4.2 ([#120](https://github.com/vidavidorra/repo-template/issues/120)) ([f8caa02](https://github.com/vidavidorra/repo-template/commit/f8caa029be41da8c7deccf8859936082cecd39a5))
+
+
+### Documentation
+
+* use new readme style ([45893eb](https://github.com/vidavidorra/repo-template/commit/45893eb1cb2555866e69a9e1296bf47ceb713a56))
+
 ### [1.1.1](https://github.com/vidavidorra/repo-template/compare/v1.1.0...v1.1.1) (2020-10-14)
 
 
