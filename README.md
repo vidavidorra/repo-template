@@ -1,117 +1,73 @@
-# repo-template
+# Repository template
 
 A template for creating new repositories.
+
+- Commit style using [commitlint](https://commitlint.js.org/).
+- Code formatting using [Prettier](https://prettier.io/).
+- Version management using [**`semantic-release`**](https://semantic-release.gitbook.io/semantic-release/).
+- Dependency management using [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate).
+
+---
+
+[![Renovate enabled](https://img.shields.io/badge/Renovate-enabled-brightgreen.svg?logo=renovatebot&logoColor&style=flat-square)](https://renovatebot.com)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
+[![License](https://img.shields.io/github/license/vidavidorra/repo-template.svg?style=flat-square)](LICENSE.md)
 
 <a name="toc"></a>
 
 ## Table of contents
 
-- [Badges](#badges)
+- [Install](#install)
 - [Usage](#usage)
-- [Setup](#setup)
-- [Checklist](#checklist)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Security policy](#security-policy)
 - [License](#license)
 
-## Badges
+## Install
 
-| Badge                                                                                                                                                                                                                                                                     | Description          | Service              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |
-| <a href="https://github.com/prettier/prettier#readme"><img alt="code style" src="https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier&style=flat-square"></a>                                                                                        | Code style           | Prettier             |
-| <a href="https://conventionalcommits.org"><img alt="Conventional Commits: 1.0.0" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat-square"></a>                                                                                        | Commit style         | Conventional Commits |
-| <a href="https://github.com/semantic-release/semantic-release"><img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square"></a>                                                          | Version management   | `semantic-release`   |
-| <a href="https://renovatebot.com"><img alt="Renovate enabled" src="https://img.shields.io/badge/Renovate-enabled-brightgreen.svg?logo=renovatebot&style=flat-square"></a>                                                                                                 | Dependencies         | Renovate             |
-| <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint%20commit%20messages?logo=github&label=Lint%20commit%20messages&style=flat-square"></a> | Lint commit messages | GitHub Actions       |
-| <a href="https://github.com/vidavidorra/repo-template/actions"><img alt="GitHub workflow status" src="https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Build?logo=github&label=Build&style=flat-square"></a>                                       | Build                | GitHub Actions       |
+This describes how to use this template, for which there are two options.
 
-## Usage
-
-There are two options to use this template.
-
-1. Create new repository on GitHub and select this as template.
-2. Create a new empty repository and merge this template.
+1. Create a new repository on GitHub and select `vidavidorra/repo-template` as _Repository template_.
+2. Create a new empty repository on and merge this template.
    ```shell
    $ git commit --allow-empty -m 'chore: create HEAD'
    $ git remote add -t master upstream git@github.com:vidavidorra/repo-template.git
    $ export REPO_TEMPLATE_TAG="$(git -c 'versionsort.suffix=-' ls-remote --exit-code --refs --sort='version:refname' --tags upstream 'v*.*.*' | tail --lines=1 | cut --delimiter='/' --fields=3)"
+   $ export REPO_TEMPLATE_COMMIT="$(git -c 'versionsort.suffix=-' ls-remote --exit-code --refs --sort='version:refname' --tags upstream 'v*.*.*' | tail --lines=1 | cut --characters=1-7)"
    $ git fetch --no-tags upstream tag "${REPO_TEMPLATE_TAG}"
    $ git merge --allow-unrelated-histories --squash "${REPO_TEMPLATE_TAG}"
-   $ git commit -m "chore: initialise from vidavidorra/repo-template@${REPO_TEMPLATE_TAG}" -m "Vidavidorra repo template release/tag: https://github.com/ vidavidorra/repo-template/releases/tag/${REPO_TEMPLATE_TAG}."
+   $ git commit --message "chore: initialise from vidavidorra/repo-template@${REPO_TEMPLATE_COMMIT} (${REPO_TEMPLATE_TAG})"
    $ git tag --delete "${REPO_TEMPLATE_TAG}"
    $ git remote remove upstream
    $ git push
    ```
 
-## Setup
+## Usage
 
-After a new repository using this template has been created, make the following changes.
+Work through the [checklist](docs/checklist.md) to setup the repository with this template.
 
-1. Remove files containing content of the template.
-   ```shell
-   $ rm CHANGELOG.md
-   ```
-2. Create a temporary checklist and replace the readme with the example.
-   ```shell
-   $ mv README.md CHECKLIST.md
-   $ mv README.example.md README.md
-   ```
-3. Go through the [checklist](#checklist).
-4. Remove the temporary checklist.
-   ```shell
-   $ rm CHECKLIST.md
-   ```
+## Documentation
 
-## Checklist
+Please refer to the [docs](docs), for the documentation.
 
-Go through this checklist after creating your repository. It should only take a couple of minutes.
+## Contributing
 
-### README.md
+Please [create an issue](https://github.com/vidavidorra/repo-template/issues/new/choose) if you have a bug report, feature proposal or question that does not yet exist.
 
-- [ ] Is the `<title>` field correct?
-- [ ] Is the `<description>` field correct?
-- [ ] Are the `<repo-name>` fields correct?
-- [ ] Is the date (range) of the license correct?
+Please give this project a star ⭐ if you like it and consider becoming a [sponsor](https://github.com/sponsors/jdbruijn) to support this project.
 
-### `package.json`
+Please refer to the [contributing guide](https://github.com/vidavidorra/.github/CONTRIBUTING.md) detailed information about other contributions, like pull requests.
 
-- [ ] Is the `name` field correct?
-- [ ] Is the `description` field correct?
-- [ ] Is the `version` field correct?  
-       Use `npm version 0.1.0 --git-tag-version=false` to set the version, `0.1.0` in this example.
-- [ ] Is the `author` field correct?
-- [ ] Have you added `keywords`?
-- [ ] Are the `repository.url`, `bugs` and `homepage` links correct?
+[![Conventional Commits: 1.0.0](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat-square)](https://conventionalcommits.org)
+[![Code style](https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier&style=flat-square)](https://github.com/prettier/prettier)
+[![Linting](https://img.shields.io/badge/linting-ESLint-lightgrey.svg?logo=eslint&style=flat-square)](https://eslint.org)
+[![Lint commit messages](https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Lint%20commit%20messages?logo=github&label=Lint%20commit%20messages&style=flat-square)](https://github.com/vidavidorra/repo-template/actions)
+[![Build](https://img.shields.io/github/workflow/status/vidavidorra/repo-template/Build?logo=github&label=Build&style=flat-square)](https://github.com/vidavidorra/repo-template/actions)
 
-### `package-lock.json`
+## Security policy
 
-- [ ] Is the `name` field correct?
-- [ ] Is the `version` field correct?
-
-### Renovate
-
-- [ ] Is the repository added to [GitHub Renovate](https://github.com/vidavidorra/github-renovate)'s [list of repositories](https://github.com/vidavidorra/github-renovate/blob/v1.0.2/src/renovate-config.js#L19)?
-- [ ] Is the Renovate GitHub App enabled on this repository?  
-       Settings can be found in the _Installed GitHub Apps_ secion of the GitHub _Organization settings_ or in the _Applications_ section of the GitHub _Personal settings_. Add the repository to the list of selected repositories.
-
-### GitHub settings
-
-**Options**
-
-- [ ] Is the _Wikis_ option disabled?
-- [ ] Is the _Allow merge commits_ merge option disabled?
-- [ ] Is the _Allow squash merging_ merge option enabled?
-- [ ] Is the _Allow rebase merging_ merge option disabled?
-- [ ] Is _Automatically delete head branches_ enabled?
-
-**Branches**
-
-- [ ] Are _Branch protection rules_ added on the `master` branch?
-
-### Language setup
-
-### Typescript
-
-- [ ] Is there a `tsconfig.json` file?  
-       See [vidavidorra/next-standard-version](https://github.com/vidavidorra/next-standard-version) for an example of the file.
+Please refer to the [Security Policy on GitHub](https://github.com/vidavidorra/repo-template/security/) for the security policy.
 
 ## License
 
