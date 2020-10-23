@@ -25,6 +25,8 @@ module.exports = {
       },
     ],
     ['@semantic-release/npm', { npmPublish: false }],
+    '@semantic-release/git',
+    '@semantic-release/github',
   ],
   preset: 'conventionalcommits',
   presetConfig: {
