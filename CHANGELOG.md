@@ -1,3 +1,23 @@
+### [1.1.3](https://github.com/vidavidorra/repo-template/compare/v1.1.2...v1.1.3) (2020-10-23)
+
+### Bug Fixes
+
+- **style:** format change log and stop ignoring it in ESLint ignore ([fb79c87](https://github.com/vidavidorra/repo-template/commit/fb79c87f46b862f4339e1af6ff5abd2854c83439))
+- **style:** format change log during the release process ([20f71ea](https://github.com/vidavidorra/repo-template/commit/20f71ea88bb459d708fe12edf2717599cd324b30))
+- **style:** use relative matching in ESLint ignore file ([9dd6e6d](https://github.com/vidavidorra/repo-template/commit/9dd6e6dd389369e5370459c15ca0b1811df1bcac))
+
+### Miscellaneous Chores
+
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.14 ([#122](https://github.com/vidavidorra/repo-template/issues/122)) ([cf411d0](https://github.com/vidavidorra/repo-template/commit/cf411d04955169524b2096a3fe5f75b001a26301))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.15 ([#123](https://github.com/vidavidorra/repo-template/issues/123)) ([794875d](https://github.com/vidavidorra/repo-template/commit/794875d11b082d4a10c8e64366070bcfde60e0d2))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.16 ([#124](https://github.com/vidavidorra/repo-template/issues/124)) ([6a58f30](https://github.com/vidavidorra/repo-template/commit/6a58f301c4eed4c0dd80b249e888bbf92375063f))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.17 ([#126](https://github.com/vidavidorra/repo-template/issues/126)) ([41a7da6](https://github.com/vidavidorra/repo-template/commit/41a7da66bd04eb74c017d45c14a50f89df84ae41))
+- **deps:** update dependency eslint-config-prettier to v6.14.0 ([#125](https://github.com/vidavidorra/repo-template/issues/125)) ([2db53e5](https://github.com/vidavidorra/repo-template/commit/2db53e54bd9e4ff2d074f71d8c1b7140bb0cba95))
+
+### Continuous Integration
+
+- add back missing `git` and `github` steps of the release ([0549bac](https://github.com/vidavidorra/repo-template/commit/0549bac30c689c5ef63455063505cbb336c3ac43))
+
 ### [1.1.2](https://github.com/vidavidorra/repo-template/compare/v1.1.1...v1.1.2) (2020-10-19)
 
 ### Miscellaneous Chores
