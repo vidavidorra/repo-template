@@ -1,374 +1,323 @@
 ### [1.1.2](https://github.com/vidavidorra/repo-template/compare/v1.1.1...v1.1.2) (2020-10-19)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.13 ([#121](https://github.com/vidavidorra/repo-template/issues/121)) ([dacbafb](https://github.com/vidavidorra/repo-template/commit/dacbafbae2c837fdec2f41aea3a7acf8ee6ade7b))
-* **deps:** update dependency eslint-config-prettier to v6.13.0 ([#119](https://github.com/vidavidorra/repo-template/issues/119)) ([6c4766c](https://github.com/vidavidorra/repo-template/commit/6c4766cfe0f901c193726de87c68d8f6cf2ee79c))
-* **deps:** update dependency lint-staged to v10.4.1 ([#118](https://github.com/vidavidorra/repo-template/issues/118)) ([f28a375](https://github.com/vidavidorra/repo-template/commit/f28a375213c0cd1c3b4c49c405a64f034e18277f))
-* **deps:** update dependency lint-staged to v10.4.2 ([#120](https://github.com/vidavidorra/repo-template/issues/120)) ([f8caa02](https://github.com/vidavidorra/repo-template/commit/f8caa029be41da8c7deccf8859936082cecd39a5))
-
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.13 ([#121](https://github.com/vidavidorra/repo-template/issues/121)) ([dacbafb](https://github.com/vidavidorra/repo-template/commit/dacbafbae2c837fdec2f41aea3a7acf8ee6ade7b))
+- **deps:** update dependency eslint-config-prettier to v6.13.0 ([#119](https://github.com/vidavidorra/repo-template/issues/119)) ([6c4766c](https://github.com/vidavidorra/repo-template/commit/6c4766cfe0f901c193726de87c68d8f6cf2ee79c))
+- **deps:** update dependency lint-staged to v10.4.1 ([#118](https://github.com/vidavidorra/repo-template/issues/118)) ([f28a375](https://github.com/vidavidorra/repo-template/commit/f28a375213c0cd1c3b4c49c405a64f034e18277f))
+- **deps:** update dependency lint-staged to v10.4.2 ([#120](https://github.com/vidavidorra/repo-template/issues/120)) ([f8caa02](https://github.com/vidavidorra/repo-template/commit/f8caa029be41da8c7deccf8859936082cecd39a5))
 
 ### Documentation
 
-* use new readme style ([45893eb](https://github.com/vidavidorra/repo-template/commit/45893eb1cb2555866e69a9e1296bf47ceb713a56))
+- use new readme style ([45893eb](https://github.com/vidavidorra/repo-template/commit/45893eb1cb2555866e69a9e1296bf47ceb713a56))
 
 ### [1.1.1](https://github.com/vidavidorra/repo-template/compare/v1.1.0...v1.1.1) (2020-10-14)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.12 ([#114](https://github.com/vidavidorra/repo-template/issues/114)) ([5eb3e56](https://github.com/vidavidorra/repo-template/commit/5eb3e5693094a83006cf709c70955fe3db7bb87e))
-* **deps:** update dependency eslint to v7.11.0 ([#115](https://github.com/vidavidorra/repo-template/issues/115)) ([3616674](https://github.com/vidavidorra/repo-template/commit/3616674b49f94812cce32aaa5e01d1fb8275f9f9))
-* **deps:** update dependency semantic-release to v17.2.0 ([#116](https://github.com/vidavidorra/repo-template/issues/116)) ([9495c2e](https://github.com/vidavidorra/repo-template/commit/9495c2e4a4aacf0b54b92ac3cf947fc753dbdb22))
-* **deps:** update dependency semantic-release to v17.2.1 ([#117](https://github.com/vidavidorra/repo-template/issues/117)) ([f37d323](https://github.com/vidavidorra/repo-template/commit/f37d3236076bd3b913570801d020f8aa588b3c99))
-
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.12 ([#114](https://github.com/vidavidorra/repo-template/issues/114)) ([5eb3e56](https://github.com/vidavidorra/repo-template/commit/5eb3e5693094a83006cf709c70955fe3db7bb87e))
+- **deps:** update dependency eslint to v7.11.0 ([#115](https://github.com/vidavidorra/repo-template/issues/115)) ([3616674](https://github.com/vidavidorra/repo-template/commit/3616674b49f94812cce32aaa5e01d1fb8275f9f9))
+- **deps:** update dependency semantic-release to v17.2.0 ([#116](https://github.com/vidavidorra/repo-template/issues/116)) ([9495c2e](https://github.com/vidavidorra/repo-template/commit/9495c2e4a4aacf0b54b92ac3cf947fc753dbdb22))
+- **deps:** update dependency semantic-release to v17.2.1 ([#117](https://github.com/vidavidorra/repo-template/issues/117)) ([f37d323](https://github.com/vidavidorra/repo-template/commit/f37d3236076bd3b913570801d020f8aa588b3c99))
 
 ### Documentation
 
-* add logos to readme badges ([ba44b82](https://github.com/vidavidorra/repo-template/commit/ba44b82d64072e4f0edf919b0aeae55a91ccf851))
+- add logos to readme badges ([ba44b82](https://github.com/vidavidorra/repo-template/commit/ba44b82d64072e4f0edf919b0aeae55a91ccf851))
 
 ## [1.1.0](https://github.com/vidavidorra/repo-template/compare/v1.0.48...v1.1.0) (2020-10-07)
 
-
 ### Features
 
-* **gitignore:** add Go ignore ([218ad98](https://github.com/vidavidorra/repo-template/commit/218ad9862eb55b7056e0c27b8e01653ee039789f))
-* **gitignore:** add Visual Studio Code ignore ([53db31d](https://github.com/vidavidorra/repo-template/commit/53db31d23eca2219d77fcb878d3154752162e4fd))
-
+- **gitignore:** add Go ignore ([218ad98](https://github.com/vidavidorra/repo-template/commit/218ad9862eb55b7056e0c27b8e01653ee039789f))
+- **gitignore:** add Visual Studio Code ignore ([53db31d](https://github.com/vidavidorra/repo-template/commit/53db31d23eca2219d77fcb878d3154752162e4fd))
 
 ### Bug Fixes
 
-* **gitignore:** update ignores from gitignore.io ([eaaa06c](https://github.com/vidavidorra/repo-template/commit/eaaa06c7a9fe7c1c77460321ea7286ce3de0a734))
-
+- **gitignore:** update ignores from gitignore.io ([eaaa06c](https://github.com/vidavidorra/repo-template/commit/eaaa06c7a9fe7c1c77460321ea7286ce3de0a734))
 
 ### Miscellaneous Chores
 
-* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.10 ([#113](https://github.com/vidavidorra/repo-template/issues/113)) ([617fdc5](https://github.com/vidavidorra/repo-template/commit/617fdc5e6c645d7a677f845ecfccb7a8b7dcc21d))
-* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.9 ([#112](https://github.com/vidavidorra/repo-template/issues/112)) ([b97a539](https://github.com/vidavidorra/repo-template/commit/b97a5398f12330fd92b1816ece7c2235871f86d0))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.10 ([#113](https://github.com/vidavidorra/repo-template/issues/113)) ([617fdc5](https://github.com/vidavidorra/repo-template/commit/617fdc5e6c645d7a677f845ecfccb7a8b7dcc21d))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.9 ([#112](https://github.com/vidavidorra/repo-template/issues/112)) ([b97a539](https://github.com/vidavidorra/repo-template/commit/b97a5398f12330fd92b1816ece7c2235871f86d0))
 
 ### [1.0.48](https://github.com/vidavidorra/repo-template/compare/v1.0.47...v1.0.48) (2020-10-02)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency @vidavidorra/commitlint-config to v1.0.8 ([#109](https://github.com/vidavidorra/repo-template/issues/109)) ([5f1be0f](https://github.com/vidavidorra/repo-template/commit/5f1be0f4da5c39d7811278437045ed9bf7b679de))
-* **deps:** update dependency actions/setup-node to v2.1.2 ([#111](https://github.com/vidavidorra/repo-template/issues/111)) ([0c309f0](https://github.com/vidavidorra/repo-template/commit/0c309f03776817d3e823996d6a5519d0862ee0a7))
-
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.8 ([#109](https://github.com/vidavidorra/repo-template/issues/109)) ([5f1be0f](https://github.com/vidavidorra/repo-template/commit/5f1be0f4da5c39d7811278437045ed9bf7b679de))
+- **deps:** update dependency actions/setup-node to v2.1.2 ([#111](https://github.com/vidavidorra/repo-template/issues/111)) ([0c309f0](https://github.com/vidavidorra/repo-template/commit/0c309f03776817d3e823996d6a5519d0862ee0a7))
 
 ### Continuous Integration
 
-* **renovate:** migrate config to Renovate > v21.28.0 ([556cd2c](https://github.com/vidavidorra/repo-template/commit/556cd2cec05174cef961873cafa6eaafc21c110a))
+- **renovate:** migrate config to Renovate > v21.28.0 ([556cd2c](https://github.com/vidavidorra/repo-template/commit/556cd2cec05174cef961873cafa6eaafc21c110a))
 
 ### [1.0.47](https://github.com/vidavidorra/repo-template/compare/v1.0.46...v1.0.47) (2020-09-28)
 
-
 ### Documentation
 
-* fix build workflow name in its badge ([b854b8d](https://github.com/vidavidorra/repo-template/commit/b854b8d092f591233563dcf784167e084f9c78a2))
+- fix build workflow name in its badge ([b854b8d](https://github.com/vidavidorra/repo-template/commit/b854b8d092f591233563dcf784167e084f9c78a2))
 
 ### [1.0.46](https://github.com/vidavidorra/repo-template/compare/v1.0.45...v1.0.46) (2020-09-28)
 
-
 ### Continuous Integration
 
-* only run `lint` in the lint job as it also checks the formatting ([ba0e649](https://github.com/vidavidorra/repo-template/commit/ba0e64901aec9fb02ad360fac8952a566f8ec8de))
-* update build workflow to Node v14 ([d6687c8](https://github.com/vidavidorra/repo-template/commit/d6687c81f1fc7010be844c587f34ac005a176d92))
+- only run `lint` in the lint job as it also checks the formatting ([ba0e649](https://github.com/vidavidorra/repo-template/commit/ba0e64901aec9fb02ad360fac8952a566f8ec8de))
+- update build workflow to Node v14 ([d6687c8](https://github.com/vidavidorra/repo-template/commit/d6687c81f1fc7010be844c587f34ac005a176d92))
 
 ### [1.0.45](https://github.com/vidavidorra/repo-template/compare/v1.0.44...v1.0.45) (2020-09-27)
 
-
 ### Documentation
 
-* add docs on using this template in a repository ([5b5d61b](https://github.com/vidavidorra/repo-template/commit/5b5d61bb3f6bcc66487533a8875b5f2900ca865c))
+- add docs on using this template in a repository ([5b5d61b](https://github.com/vidavidorra/repo-template/commit/5b5d61bb3f6bcc66487533a8875b5f2900ca865c))
 
 ### [1.0.44](https://github.com/vidavidorra/repo-template/compare/v1.0.43...v1.0.44) (2020-09-27)
 
-
 ### Continuous Integration
 
-* use `NODE_PATH` to set 'custom' commitlint dependencies ([3901854](https://github.com/vidavidorra/repo-template/commit/3901854fee6f27b208754720864712493e4a4b8b))
+- use `NODE_PATH` to set 'custom' commitlint dependencies ([3901854](https://github.com/vidavidorra/repo-template/commit/3901854fee6f27b208754720864712493e4a4b8b))
 
 ### [1.0.43](https://github.com/vidavidorra/repo-template/compare/v1.0.42...v1.0.43) (2020-09-27)
 
-
 ### Bug Fixes
 
-* use [@vidavidorra](https://github.com/vidavidorra) commitlint config ([491e239](https://github.com/vidavidorra/repo-template/commit/491e2399d6b99caffd8a4debab9c310c344be87c))
-
+- use [@vidavidorra](https://github.com/vidavidorra) commitlint config ([491e239](https://github.com/vidavidorra/repo-template/commit/491e2399d6b99caffd8a4debab9c310c344be87c))
 
 ### Miscellaneous Chores
 
-* **deps:** update commitlint monorepo to v11 ([#101](https://github.com/vidavidorra/repo-template/issues/101)) ([1eef33e](https://github.com/vidavidorra/repo-template/commit/1eef33eb6d0c7defbc5fba3468c8687c93c200be))
-* **deps:** update dependency actions/checkout to v2.3.3 ([#106](https://github.com/vidavidorra/repo-template/issues/106)) ([fb8bee1](https://github.com/vidavidorra/repo-template/commit/fb8bee19cba3334c1e76bb81a2101d6aaffbd093))
-* **deps:** update dependency eslint to v7.10.0 ([#108](https://github.com/vidavidorra/repo-template/issues/108)) ([45d601c](https://github.com/vidavidorra/repo-template/commit/45d601c021ff5e4f4eb4f0505eadf36bca8f8a96))
-* **deps:** update dependency eslint-config-prettier to v6.12.0 ([#107](https://github.com/vidavidorra/repo-template/issues/107)) ([1e28d6c](https://github.com/vidavidorra/repo-template/commit/1e28d6c2792d175ab7ff026dc8a1f3294c928580))
-* **deps:** update dependency wagoid/commitlint-github-action to v2.1.0 ([#102](https://github.com/vidavidorra/repo-template/issues/102)) ([0698982](https://github.com/vidavidorra/repo-template/commit/0698982aef173533e45453dc6bb9224eb3b42fbd))
-* remove unnecessary brackets from `.releaserc.js` ([fa412f5](https://github.com/vidavidorra/repo-template/commit/fa412f57f3473181594f93e92df3da811dd4a843))
+- **deps:** update commitlint monorepo to v11 ([#101](https://github.com/vidavidorra/repo-template/issues/101)) ([1eef33e](https://github.com/vidavidorra/repo-template/commit/1eef33eb6d0c7defbc5fba3468c8687c93c200be))
+- **deps:** update dependency actions/checkout to v2.3.3 ([#106](https://github.com/vidavidorra/repo-template/issues/106)) ([fb8bee1](https://github.com/vidavidorra/repo-template/commit/fb8bee19cba3334c1e76bb81a2101d6aaffbd093))
+- **deps:** update dependency eslint to v7.10.0 ([#108](https://github.com/vidavidorra/repo-template/issues/108)) ([45d601c](https://github.com/vidavidorra/repo-template/commit/45d601c021ff5e4f4eb4f0505eadf36bca8f8a96))
+- **deps:** update dependency eslint-config-prettier to v6.12.0 ([#107](https://github.com/vidavidorra/repo-template/issues/107)) ([1e28d6c](https://github.com/vidavidorra/repo-template/commit/1e28d6c2792d175ab7ff026dc8a1f3294c928580))
+- **deps:** update dependency wagoid/commitlint-github-action to v2.1.0 ([#102](https://github.com/vidavidorra/repo-template/issues/102)) ([0698982](https://github.com/vidavidorra/repo-template/commit/0698982aef173533e45453dc6bb9224eb3b42fbd))
+- remove unnecessary brackets from `.releaserc.js` ([fa412f5](https://github.com/vidavidorra/repo-template/commit/fa412f57f3473181594f93e92df3da811dd4a843))
 
 ### [1.0.42](https://github.com/vidavidorra/repo-template/compare/v1.0.41...v1.0.42) (2020-09-24)
 
-
 ### Continuous Integration
 
-* **release:** disable release on chore commits ([41f92f2](https://github.com/vidavidorra/repo-template/commit/41f92f21b950508175b9ba7f12bb4ca4a01768e2))
-* **renovate:** auto-merge `dependencies` ([5975bef](https://github.com/vidavidorra/repo-template/commit/5975bef88ed4043216acd2b35cae3157a972344c))
+- **release:** disable release on chore commits ([41f92f2](https://github.com/vidavidorra/repo-template/commit/41f92f21b950508175b9ba7f12bb4ca4a01768e2))
+- **renovate:** auto-merge `dependencies` ([5975bef](https://github.com/vidavidorra/repo-template/commit/5975bef88ed4043216acd2b35cae3157a972344c))
 
 ### [1.0.41](https://github.com/vidavidorra/repo-template/compare/v1.0.40...v1.0.41) (2020-09-17)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency semantic-release to v17.1.2 ([#105](https://github.com/vidavidorra/repo-template/issues/105)) ([ff323ba](https://github.com/vidavidorra/repo-template/commit/ff323ba48c85126dc002da4a40aeecea94469614))
+- **deps:** update dependency semantic-release to v17.1.2 ([#105](https://github.com/vidavidorra/repo-template/issues/105)) ([ff323ba](https://github.com/vidavidorra/repo-template/commit/ff323ba48c85126dc002da4a40aeecea94469614))
 
 ### [1.0.40](https://github.com/vidavidorra/repo-template/compare/v1.0.39...v1.0.40) (2020-09-16)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency lint-staged to v10.4.0 ([#104](https://github.com/vidavidorra/repo-template/issues/104)) ([2b1c85c](https://github.com/vidavidorra/repo-template/commit/2b1c85c0e0a2b96dda9f18037fc7342fabc6ad8e))
+- **deps:** update dependency lint-staged to v10.4.0 ([#104](https://github.com/vidavidorra/repo-template/issues/104)) ([2b1c85c](https://github.com/vidavidorra/repo-template/commit/2b1c85c0e0a2b96dda9f18037fc7342fabc6ad8e))
 
 ### [1.0.39](https://github.com/vidavidorra/repo-template/compare/v1.0.38...v1.0.39) (2020-09-16)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency prettier to v2.1.2 ([#103](https://github.com/vidavidorra/repo-template/issues/103)) ([1ec226e](https://github.com/vidavidorra/repo-template/commit/1ec226e14ddb88ba54bc85179b7c610174823bb0))
+- **deps:** update dependency prettier to v2.1.2 ([#103](https://github.com/vidavidorra/repo-template/issues/103)) ([1ec226e](https://github.com/vidavidorra/repo-template/commit/1ec226e14ddb88ba54bc85179b7c610174823bb0))
 
 ### [1.0.38](https://github.com/vidavidorra/repo-template/compare/v1.0.37...v1.0.38) (2020-09-12)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency eslint to v7.9.0 ([#99](https://github.com/vidavidorra/repo-template/issues/99)) ([c014f4a](https://github.com/vidavidorra/repo-template/commit/c014f4a4c369cc09a8f8d8be0cd4e2efc451baa0))
+- **deps:** update dependency eslint to v7.9.0 ([#99](https://github.com/vidavidorra/repo-template/issues/99)) ([c014f4a](https://github.com/vidavidorra/repo-template/commit/c014f4a4c369cc09a8f8d8be0cd4e2efc451baa0))
 
 ### [1.0.37](https://github.com/vidavidorra/repo-template/compare/v1.0.36...v1.0.37) (2020-09-07)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency husky to v4.3.0 ([#98](https://github.com/vidavidorra/repo-template/issues/98)) ([a09967e](https://github.com/vidavidorra/repo-template/commit/a09967e26499876ab98e4c6f07f55f22471dde2f))
+- **deps:** update dependency husky to v4.3.0 ([#98](https://github.com/vidavidorra/repo-template/issues/98)) ([a09967e](https://github.com/vidavidorra/repo-template/commit/a09967e26499876ab98e4c6f07f55f22471dde2f))
 
 ### [1.0.36](https://github.com/vidavidorra/repo-template/compare/v1.0.35...v1.0.36) (2020-09-06)
 
-
 ### Bug Fixes
 
-* **lint:** remove TypeScript linting and dependencies ([27477da](https://github.com/vidavidorra/repo-template/commit/27477da61842ff3f8e805cc7bb07f6ba3fa1bd2f))
+- **lint:** remove TypeScript linting and dependencies ([27477da](https://github.com/vidavidorra/repo-template/commit/27477da61842ff3f8e805cc7bb07f6ba3fa1bd2f))
 
 ### [1.0.35](https://github.com/vidavidorra/repo-template/compare/v1.0.34...v1.0.35) (2020-09-06)
 
-
 ### Bug Fixes
 
-* **badges:** add semantic-release badge ([f6baa41](https://github.com/vidavidorra/repo-template/commit/f6baa413fcda284770d59105df02fa2a83da41bb))
-* **readme:** add semantic-release and Renovate badges ([ba8c366](https://github.com/vidavidorra/repo-template/commit/ba8c366dc41fa246e69c4df49d4577d1690f14ec))
+- **badges:** add semantic-release badge ([f6baa41](https://github.com/vidavidorra/repo-template/commit/f6baa413fcda284770d59105df02fa2a83da41bb))
+- **readme:** add semantic-release and Renovate badges ([ba8c366](https://github.com/vidavidorra/repo-template/commit/ba8c366dc41fa246e69c4df49d4577d1690f14ec))
 
 ### [1.0.34](https://github.com/vidavidorra/repo-template/compare/v1.0.33...v1.0.34) (2020-09-06)
 
-
 ### Bug Fixes
 
-* **github:** group GitHub settings on their settings tab ([73f11ef](https://github.com/vidavidorra/repo-template/commit/73f11efd985dfcea2c30f7acd7b5f85f4f91e394))
+- **github:** group GitHub settings on their settings tab ([73f11ef](https://github.com/vidavidorra/repo-template/commit/73f11efd985dfcea2c30f7acd7b5f85f4f91e394))
 
 ### [1.0.33](https://github.com/vidavidorra/repo-template/compare/v1.0.32...v1.0.33) (2020-09-04)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update typescript-eslint monorepo to v4 ([#97](https://github.com/vidavidorra/repo-template/issues/97)) ([fce1750](https://github.com/vidavidorra/repo-template/commit/fce175042faa6e7af966c983f9517b4895f64338))
+- **deps:** update typescript-eslint monorepo to v4 ([#97](https://github.com/vidavidorra/repo-template/issues/97)) ([fce1750](https://github.com/vidavidorra/repo-template/commit/fce175042faa6e7af966c983f9517b4895f64338))
 
 ### [1.0.32](https://github.com/vidavidorra/repo-template/compare/v1.0.31...v1.0.32) (2020-09-04)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency lint-staged to v10.3.0 ([#96](https://github.com/vidavidorra/repo-template/issues/96)) ([07c734e](https://github.com/vidavidorra/repo-template/commit/07c734efc4f90e65eb1a1240408b8872ec35fc9f))
+- **deps:** update dependency lint-staged to v10.3.0 ([#96](https://github.com/vidavidorra/repo-template/issues/96)) ([07c734e](https://github.com/vidavidorra/repo-template/commit/07c734efc4f90e65eb1a1240408b8872ec35fc9f))
 
 ### [1.0.31](https://github.com/vidavidorra/repo-template/compare/v1.0.30...v1.0.31) (2020-09-01)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency eslint to v7.8.1 ([#95](https://github.com/vidavidorra/repo-template/issues/95)) ([39a4e8b](https://github.com/vidavidorra/repo-template/commit/39a4e8ba63ebf27b9253bce68fb4e388feec586d))
+- **deps:** update dependency eslint to v7.8.1 ([#95](https://github.com/vidavidorra/repo-template/issues/95)) ([39a4e8b](https://github.com/vidavidorra/repo-template/commit/39a4e8ba63ebf27b9253bce68fb4e388feec586d))
 
 ### [1.0.30](https://github.com/vidavidorra/repo-template/compare/v1.0.29...v1.0.30) (2020-09-01)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency eslint to v7.8.0 ([#94](https://github.com/vidavidorra/repo-template/issues/94)) ([37aa06b](https://github.com/vidavidorra/repo-template/commit/37aa06b577defe92caeb71b1dcb889304d224224))
+- **deps:** update dependency eslint to v7.8.0 ([#94](https://github.com/vidavidorra/repo-template/issues/94)) ([37aa06b](https://github.com/vidavidorra/repo-template/commit/37aa06b577defe92caeb71b1dcb889304d224224))
 
 ### [1.0.29](https://github.com/vidavidorra/repo-template/compare/v1.0.28...v1.0.29) (2020-08-26)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency prettier to v2.1.1 ([#93](https://github.com/vidavidorra/repo-template/issues/93)) ([ce9f496](https://github.com/vidavidorra/repo-template/commit/ce9f4961d61c9f9128f6bfc1e05e73425aa3e40d))
+- **deps:** update dependency prettier to v2.1.1 ([#93](https://github.com/vidavidorra/repo-template/issues/93)) ([ce9f496](https://github.com/vidavidorra/repo-template/commit/ce9f4961d61c9f9128f6bfc1e05e73425aa3e40d))
 
 ### [1.0.28](https://github.com/vidavidorra/repo-template/compare/v1.0.27...v1.0.28) (2020-08-25)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency lint-staged to v10.2.13 ([#92](https://github.com/vidavidorra/repo-template/issues/92)) ([ec275fd](https://github.com/vidavidorra/repo-template/commit/ec275fd0c2cd6f841b3c5670b6b6eee83063fb6b))
+- **deps:** update dependency lint-staged to v10.2.13 ([#92](https://github.com/vidavidorra/repo-template/issues/92)) ([ec275fd](https://github.com/vidavidorra/repo-template/commit/ec275fd0c2cd6f841b3c5670b6b6eee83063fb6b))
 
 ### [1.0.27](https://github.com/vidavidorra/repo-template/compare/v1.0.26...v1.0.27) (2020-08-25)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency lint-staged to v10.2.12 ([#91](https://github.com/vidavidorra/repo-template/issues/91)) ([ab1b224](https://github.com/vidavidorra/repo-template/commit/ab1b224596d0d3b8486f1a4f3372db8cc1939277))
+- **deps:** update dependency lint-staged to v10.2.12 ([#91](https://github.com/vidavidorra/repo-template/issues/91)) ([ab1b224](https://github.com/vidavidorra/repo-template/commit/ab1b224596d0d3b8486f1a4f3372db8cc1939277))
 
 ### [1.0.26](https://github.com/vidavidorra/repo-template/compare/v1.0.25...v1.0.26) (2020-08-25)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update typescript-eslint monorepo to v3.10.1 ([#90](https://github.com/vidavidorra/repo-template/issues/90)) ([bc576bf](https://github.com/vidavidorra/repo-template/commit/bc576bff15090602a564e7e9fa2307973afb5442))
+- **deps:** update typescript-eslint monorepo to v3.10.1 ([#90](https://github.com/vidavidorra/repo-template/issues/90)) ([bc576bf](https://github.com/vidavidorra/repo-template/commit/bc576bff15090602a564e7e9fa2307973afb5442))
 
 ### [1.0.25](https://github.com/vidavidorra/repo-template/compare/v1.0.24...v1.0.25) (2020-08-24)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update typescript-eslint monorepo to v3.10.0 ([#89](https://github.com/vidavidorra/repo-template/issues/89)) ([d1b594f](https://github.com/vidavidorra/repo-template/commit/d1b594fc6cb3e7329ddf862ad3eebd0ff70fbf9c))
+- **deps:** update typescript-eslint monorepo to v3.10.0 ([#89](https://github.com/vidavidorra/repo-template/issues/89)) ([d1b594f](https://github.com/vidavidorra/repo-template/commit/d1b594fc6cb3e7329ddf862ad3eebd0ff70fbf9c))
 
 ### [1.0.24](https://github.com/vidavidorra/repo-template/compare/v1.0.23...v1.0.24) (2020-08-24)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency prettier to v2.1.0 ([#88](https://github.com/vidavidorra/repo-template/issues/88)) ([f2b653e](https://github.com/vidavidorra/repo-template/commit/f2b653e52755beb80b08ebc7bfbdb3c4855c2472))
+- **deps:** update dependency prettier to v2.1.0 ([#88](https://github.com/vidavidorra/repo-template/issues/88)) ([f2b653e](https://github.com/vidavidorra/repo-template/commit/f2b653e52755beb80b08ebc7bfbdb3c4855c2472))
 
 ### [1.0.23](https://github.com/vidavidorra/repo-template/compare/v1.0.22...v1.0.23) (2020-08-24)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency typescript to v4 ([#87](https://github.com/vidavidorra/repo-template/issues/87)) ([c9634a5](https://github.com/vidavidorra/repo-template/commit/c9634a51d8d7dc41d5f48b8163a250a040e97680))
+- **deps:** update dependency typescript to v4 ([#87](https://github.com/vidavidorra/repo-template/issues/87)) ([c9634a5](https://github.com/vidavidorra/repo-template/commit/c9634a51d8d7dc41d5f48b8163a250a040e97680))
 
 ### [1.0.22](https://github.com/vidavidorra/repo-template/compare/v1.0.21...v1.0.22) (2020-08-23)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency wagoid/commitlint-github-action to v2.0.2 ([#86](https://github.com/vidavidorra/repo-template/issues/86)) ([e05bac5](https://github.com/vidavidorra/repo-template/commit/e05bac544dbcefe97113ed25ed814fb8ba46409d))
+- **deps:** update dependency wagoid/commitlint-github-action to v2.0.2 ([#86](https://github.com/vidavidorra/repo-template/issues/86)) ([e05bac5](https://github.com/vidavidorra/repo-template/commit/e05bac544dbcefe97113ed25ed814fb8ba46409d))
 
 ### [1.0.21](https://github.com/vidavidorra/repo-template/compare/v1.0.20...v1.0.21) (2020-08-21)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency wagoid/commitlint-github-action to v2.0.1 ([#85](https://github.com/vidavidorra/repo-template/issues/85)) ([e1ce40a](https://github.com/vidavidorra/repo-template/commit/e1ce40a238250ae7fc222e62223f2c582e4df753))
+- **deps:** update dependency wagoid/commitlint-github-action to v2.0.1 ([#85](https://github.com/vidavidorra/repo-template/issues/85)) ([e1ce40a](https://github.com/vidavidorra/repo-template/commit/e1ce40a238250ae7fc222e62223f2c582e4df753))
 
 ### [1.0.20](https://github.com/vidavidorra/repo-template/compare/v1.0.19...v1.0.20) (2020-08-17)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update typescript-eslint monorepo to v3.9.1 ([#84](https://github.com/vidavidorra/repo-template/issues/84)) ([df6ffef](https://github.com/vidavidorra/repo-template/commit/df6ffef19d9b4a309164b0dccb54e5e193273aea))
+- **deps:** update typescript-eslint monorepo to v3.9.1 ([#84](https://github.com/vidavidorra/repo-template/issues/84)) ([df6ffef](https://github.com/vidavidorra/repo-template/commit/df6ffef19d9b4a309164b0dccb54e5e193273aea))
 
 ### [1.0.19](https://github.com/vidavidorra/repo-template/compare/v1.0.18...v1.0.19) (2020-08-16)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update commitlint monorepo to v9.1.2 ([#83](https://github.com/vidavidorra/repo-template/issues/83)) ([2d44b38](https://github.com/vidavidorra/repo-template/commit/2d44b386adf68dca4fc1fa3298624e04f0c7f5c1))
+- **deps:** update commitlint monorepo to v9.1.2 ([#83](https://github.com/vidavidorra/repo-template/issues/83)) ([2d44b38](https://github.com/vidavidorra/repo-template/commit/2d44b386adf68dca4fc1fa3298624e04f0c7f5c1))
 
 ### [1.0.18](https://github.com/vidavidorra/repo-template/compare/v1.0.17...v1.0.18) (2020-08-14)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency eslint to v7.7.0 ([#82](https://github.com/vidavidorra/repo-template/issues/82)) ([9aa77e4](https://github.com/vidavidorra/repo-template/commit/9aa77e401178cee2521919b7baa8044c1514b9e1))
+- **deps:** update dependency eslint to v7.7.0 ([#82](https://github.com/vidavidorra/repo-template/issues/82)) ([9aa77e4](https://github.com/vidavidorra/repo-template/commit/9aa77e401178cee2521919b7baa8044c1514b9e1))
 
 ### [1.0.17](https://github.com/vidavidorra/repo-template/compare/v1.0.16...v1.0.17) (2020-08-10)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update typescript-eslint monorepo to v3.9.0 ([#81](https://github.com/vidavidorra/repo-template/issues/81)) ([d7d3db7](https://github.com/vidavidorra/repo-template/commit/d7d3db7be55b3580ed561a9e663ab0f8b206d287))
+- **deps:** update typescript-eslint monorepo to v3.9.0 ([#81](https://github.com/vidavidorra/repo-template/issues/81)) ([d7d3db7](https://github.com/vidavidorra/repo-template/commit/d7d3db7be55b3580ed561a9e663ab0f8b206d287))
 
 ### [1.0.16](https://github.com/vidavidorra/repo-template/compare/v1.0.15...v1.0.16) (2020-08-09)
 
-
 ### Miscellaneous Chores
 
-* **deps:** update dependency wagoid/commitlint-github-action to v2 ([#78](https://github.com/vidavidorra/repo-template/issues/78)) ([feba4d0](https://github.com/vidavidorra/repo-template/commit/feba4d0ab708f79b1a7b106c5f5f5d90963eda1a))
+- **deps:** update dependency wagoid/commitlint-github-action to v2 ([#78](https://github.com/vidavidorra/repo-template/issues/78)) ([feba4d0](https://github.com/vidavidorra/repo-template/commit/feba4d0ab708f79b1a7b106c5f5f5d90963eda1a))
 
 ### [1.0.15](https://github.com/vidavidorra/repo-template/compare/v1.0.14...v1.0.15) (2020-08-09)
 
-
 ### Bug Fixes
 
-* **release:** include style and chore commits in release notes ([e711f97](https://github.com/vidavidorra/repo-template/commit/e711f97987c28bcfae87bba2e86eb0e6dc00a9d4))
+- **release:** include style and chore commits in release notes ([e711f97](https://github.com/vidavidorra/repo-template/commit/e711f97987c28bcfae87bba2e86eb0e6dc00a9d4))
 
 ### [1.0.14](https://github.com/vidavidorra/repo-template/compare/v1.0.13...v1.0.14) (2020-08-09)
 
-
 ### Bug Fixes
 
-* **release:** release patch on `chore(deps)` commits ([766a570](https://github.com/vidavidorra/repo-template/commit/766a5702c38a47d3b48f1c7da9ee121f8572a172))
+- **release:** release patch on `chore(deps)` commits ([766a570](https://github.com/vidavidorra/repo-template/commit/766a5702c38a47d3b48f1c7da9ee121f8572a172))
 
 ### [1.0.13](https://github.com/vidavidorra/repo-template/compare/v1.0.12...v1.0.13) (2020-08-01)
 
-
 ### Bug Fixes
 
-* use ESLint ignore file for ESLint and Prettier ([05c4893](https://github.com/vidavidorra/repo-template/commit/05c48938c8c0007a76a53aa12ffce3a8c1c1bb0d))
-* use json as extention in ESLint ([ca334fe](https://github.com/vidavidorra/repo-template/commit/ca334fed58fa86633c268f64a7f6e83e0f73129c))
-* **deps:** remove unused `chalk-cli` and `concurrently` packages ([ae884e6](https://github.com/vidavidorra/repo-template/commit/ae884e60d5212a27962c13aa47b0be4ae95cdd71))
-* also check non-ESLint formatting during lint script ([384c3c2](https://github.com/vidavidorra/repo-template/commit/384c3c217fc32e325fbab25039f8bd3b68272af8))
-* format files during lint-staged for JS, TS and JSON files ([09f5b5e](https://github.com/vidavidorra/repo-template/commit/09f5b5e0ed5b220b3fa06e796ce0b5da3a8f8764))
-* remove duplicate `.ts` extention from lint-staged ([a745e60](https://github.com/vidavidorra/repo-template/commit/a745e6024645c24cc622208392f6ed0a20e97e27))
+- use ESLint ignore file for ESLint and Prettier ([05c4893](https://github.com/vidavidorra/repo-template/commit/05c48938c8c0007a76a53aa12ffce3a8c1c1bb0d))
+- use json as extention in ESLint ([ca334fe](https://github.com/vidavidorra/repo-template/commit/ca334fed58fa86633c268f64a7f6e83e0f73129c))
+- **deps:** remove unused `chalk-cli` and `concurrently` packages ([ae884e6](https://github.com/vidavidorra/repo-template/commit/ae884e60d5212a27962c13aa47b0be4ae95cdd71))
+- also check non-ESLint formatting during lint script ([384c3c2](https://github.com/vidavidorra/repo-template/commit/384c3c217fc32e325fbab25039f8bd3b68272af8))
+- format files during lint-staged for JS, TS and JSON files ([09f5b5e](https://github.com/vidavidorra/repo-template/commit/09f5b5e0ed5b220b3fa06e796ce0b5da3a8f8764))
+- remove duplicate `.ts` extention from lint-staged ([a745e60](https://github.com/vidavidorra/repo-template/commit/a745e6024645c24cc622208392f6ed0a20e97e27))
 
 ### [1.0.12](https://github.com/vidavidorra/repo-template/compare/v1.0.11...v1.0.12) (2020-08-01)
 
-
 ### Continuous Integration
 
-* **renovate:** auto-merge devDependencies ([7629beb](https://github.com/vidavidorra/repo-template/commit/7629beb591ddfdef6507598705a440089db950c9))
+- **renovate:** auto-merge devDependencies ([7629beb](https://github.com/vidavidorra/repo-template/commit/7629beb591ddfdef6507598705a440089db950c9))
 
 ### [1.0.11](https://github.com/vidavidorra/repo-template/compare/v1.0.10...v1.0.11) (2020-07-31)
 
-
 ### Continuous Integration
 
-* **release:** increase build workflow to 15 minutes ([74e807d](https://github.com/vidavidorra/repo-template/commit/74e807dadb71d31abaa8e3aed432ac060ac463da))
+- **release:** increase build workflow to 15 minutes ([74e807d](https://github.com/vidavidorra/repo-template/commit/74e807dadb71d31abaa8e3aed432ac060ac463da))
 
 ### [1.0.10](https://github.com/vidavidorra/repo-template/compare/v1.0.9...v1.0.10) (2020-07-31)
 
-
 ### Bug Fixes
 
-* ignore change log during linting and formatting ([9df8e59](https://github.com/vidavidorra/repo-template/commit/9df8e596d10bec74c460b2c6776598c3ef0d9938))
-
+- ignore change log during linting and formatting ([9df8e59](https://github.com/vidavidorra/repo-template/commit/9df8e596d10bec74c460b2c6776598c3ef0d9938))
 
 ### Documentation
 
-* make change log consistent with semantic-release ([9fad818](https://github.com/vidavidorra/repo-template/commit/9fad8189d729c09fa5fcbebf72c0ebaffbbfc66f))
+- make change log consistent with semantic-release ([9fad818](https://github.com/vidavidorra/repo-template/commit/9fad8189d729c09fa5fcbebf72c0ebaffbbfc66f))
 
 ### [1.0.9](https://github.com/vidavidorra/repo-template/compare/v1.0.8...v1.0.9) (2020-07-31)
 
-
 ### Bug Fixes
 
-* **ci:** enable workflows on Renovate branches ([74a3693](https://github.com/vidavidorra/repo-template/commit/74a3693f565c1cf998101868d1de3a5389852a67))
-* **eslint:** remove `plugin:@typescript-eslint/eslint-recommended` ([b915516](https://github.com/vidavidorra/repo-template/commit/b915516cc3123661236d5019aa6649e16ff38dde))
-* **release:** install and configure semantic-release ([4c79e2c](https://github.com/vidavidorra/repo-template/commit/4c79e2cd1e3e96d082f6db0c35fbc1735f1f0c7e))
-* **renovate:** disable masterIssueApproval for major updates ([32d6524](https://github.com/vidavidorra/repo-template/commit/32d6524bc375c0ccdda0b12bb47ebb7fb0c5986c))
-* **renovate:** ignore hourly PR limit from preset ([1dc9eb0](https://github.com/vidavidorra/repo-template/commit/1dc9eb053fe7f74ad7786a886cc4d9849b8800f2))
-* **renovate:** schedule monthly by default and any time for dependencies ([9a015c3](https://github.com/vidavidorra/repo-template/commit/9a015c36314bf293ace554a073c96d85ab132928))
-* **renovate:** schedule on the first day of the month ([5ef6274](https://github.com/vidavidorra/repo-template/commit/5ef62745c63fdfe47683f742825cea22e757cc5a))
-
+- **ci:** enable workflows on Renovate branches ([74a3693](https://github.com/vidavidorra/repo-template/commit/74a3693f565c1cf998101868d1de3a5389852a67))
+- **eslint:** remove `plugin:@typescript-eslint/eslint-recommended` ([b915516](https://github.com/vidavidorra/repo-template/commit/b915516cc3123661236d5019aa6649e16ff38dde))
+- **release:** install and configure semantic-release ([4c79e2c](https://github.com/vidavidorra/repo-template/commit/4c79e2cd1e3e96d082f6db0c35fbc1735f1f0c7e))
+- **renovate:** disable masterIssueApproval for major updates ([32d6524](https://github.com/vidavidorra/repo-template/commit/32d6524bc375c0ccdda0b12bb47ebb7fb0c5986c))
+- **renovate:** ignore hourly PR limit from preset ([1dc9eb0](https://github.com/vidavidorra/repo-template/commit/1dc9eb053fe7f74ad7786a886cc4d9849b8800f2))
+- **renovate:** schedule monthly by default and any time for dependencies ([9a015c3](https://github.com/vidavidorra/repo-template/commit/9a015c36314bf293ace554a073c96d85ab132928))
+- **renovate:** schedule on the first day of the month ([5ef6274](https://github.com/vidavidorra/repo-template/commit/5ef62745c63fdfe47683f742825cea22e757cc5a))
 
 ### Continuous Integration
 
-* add GITHUB_TOKEN to release job of build workflow ([931ec82](https://github.com/vidavidorra/repo-template/commit/931ec82ac72540435eebc010a4cca53770909e4d))
-* combine lint and release workflows and use semantic-release ([f3441aa](https://github.com/vidavidorra/repo-template/commit/f3441aae820b73916d391cb6932bd072ce1da4d9))
-* make sure the release step uses its own credentials ([dbb29b7](https://github.com/vidavidorra/repo-template/commit/dbb29b7891daf418d9a01d1bad6af45839d80711))
-* use SEMANTIC_RELEASE_GITHUB_TOKEN for release ([29cc325](https://github.com/vidavidorra/repo-template/commit/29cc325c73be36743a643ca61ee41eb77dc7a84a))
+- add GITHUB_TOKEN to release job of build workflow ([931ec82](https://github.com/vidavidorra/repo-template/commit/931ec82ac72540435eebc010a4cca53770909e4d))
+- combine lint and release workflows and use semantic-release ([f3441aa](https://github.com/vidavidorra/repo-template/commit/f3441aae820b73916d391cb6932bd072ce1da4d9))
+- make sure the release step uses its own credentials ([dbb29b7](https://github.com/vidavidorra/repo-template/commit/dbb29b7891daf418d9a01d1bad6af45839d80711))
+- use SEMANTIC_RELEASE_GITHUB_TOKEN for release ([29cc325](https://github.com/vidavidorra/repo-template/commit/29cc325c73be36743a643ca61ee41eb77dc7a84a))
 
 ### [1.0.8](https://github.com/vidavidorra/repo-template/compare/v1.0.7...v1.0.8) (2020-05-18)
 
