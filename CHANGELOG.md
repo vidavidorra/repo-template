@@ -1,3 +1,14 @@
+### [1.1.4](https://github.com/vidavidorra/repo-template/compare/v1.1.3...v1.1.4) (2020-10-25)
+
+### Miscellaneous Chores
+
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.19 ([#128](https://github.com/vidavidorra/repo-template/issues/128)) ([8fe3109](https://github.com/vidavidorra/repo-template/commit/8fe3109cd7068aa606a2b202992c01cdbf9b8d1c))
+- **deps:** update dependency eslint to v7.12.0 ([#127](https://github.com/vidavidorra/repo-template/issues/127)) ([47691d1](https://github.com/vidavidorra/repo-template/commit/47691d1f857e77a1f926d083b7e8fb9331cacdc1))
+
+### Documentation
+
+- fix link to contributing guide ([e0be129](https://github.com/vidavidorra/repo-template/commit/e0be12926d51646a74c31ae080ddc45fd2d8abd9))
+
 ### [1.1.3](https://github.com/vidavidorra/repo-template/compare/v1.1.2...v1.1.3) (2020-10-23)
 
 ### Bug Fixes
