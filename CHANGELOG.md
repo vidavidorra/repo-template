@@ -1,3 +1,22 @@
+### [1.1.5](https://github.com/vidavidorra/repo-template/compare/v1.1.4...v1.1.5) (2020-11-17)
+
+### Miscellaneous Chores
+
+- **deps:** update actions/checkout action to v2.3.4 ([#136](https://github.com/vidavidorra/repo-template/issues/136)) ([ff5b211](https://github.com/vidavidorra/repo-template/commit/ff5b211362c1cc76aa585d8fd9f164614c7c01b0))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.20 ([#129](https://github.com/vidavidorra/repo-template/issues/129)) ([0ffee5d](https://github.com/vidavidorra/repo-template/commit/0ffee5d9ab1af35125ba356ed5642e6c54551231))
+- **deps:** update dependency @vidavidorra/commitlint-config to v1.0.21 ([#130](https://github.com/vidavidorra/repo-template/issues/130)) ([f9b7699](https://github.com/vidavidorra/repo-template/commit/f9b7699160db7ab33975c888a0afb61acf7029b7))
+- **deps:** update dependency eslint to v7.12.1 ([#132](https://github.com/vidavidorra/repo-template/issues/132)) ([e52bf47](https://github.com/vidavidorra/repo-template/commit/e52bf47240fb6fe036c653226940a7d4442ac3f4))
+- **deps:** update dependency eslint to v7.13.0 ([#137](https://github.com/vidavidorra/repo-template/issues/137)) ([bfa6f1d](https://github.com/vidavidorra/repo-template/commit/bfa6f1d1989baf17db51569cf401f2e3c789ec71))
+- **deps:** update dependency eslint-config-prettier to v6.15.0 ([#133](https://github.com/vidavidorra/repo-template/issues/133)) ([08d5612](https://github.com/vidavidorra/repo-template/commit/08d5612ffcd9391fd5b74140734ec956551d8128))
+- **deps:** update dependency lint-staged to v10.5.0 ([#131](https://github.com/vidavidorra/repo-template/issues/131)) ([479a558](https://github.com/vidavidorra/repo-template/commit/479a5584fd310bd9794f6ff3909d31433946791c))
+- **deps:** update dependency lint-staged to v10.5.1 ([#135](https://github.com/vidavidorra/repo-template/issues/135)) ([319a7a2](https://github.com/vidavidorra/repo-template/commit/319a7a237cca2d9740e77024776011d7e9684299))
+- **deps:** update dependency semantic-release to v17.2.2 ([#134](https://github.com/vidavidorra/repo-template/issues/134)) ([5935c1e](https://github.com/vidavidorra/repo-template/commit/5935c1e450c7ad864f64a2fb2d482f2d79123112))
+- **deps:** update wagoid/commitlint-github-action action to v2.1.1 ([#138](https://github.com/vidavidorra/repo-template/issues/138)) ([636992d](https://github.com/vidavidorra/repo-template/commit/636992d7c6f28876dc32ace49ab61b912f413b90))
+
+### Continuous Integration
+
+- use `env` to replace deprecated `set-env` ([33e4f51](https://github.com/vidavidorra/repo-template/commit/33e4f511b427f4eb72b5e97e1e57609fd038139b))
+
 ### [1.1.4](https://github.com/vidavidorra/repo-template/compare/v1.1.3...v1.1.4) (2020-10-25)
 
 ### Miscellaneous Chores
