@@ -1,3 +1,13 @@
+### [1.1.6](https://github.com/vidavidorra/repo-template/compare/v1.1.5...v1.1.6) (2021-02-07)
+
+### Bug Fixes
+
+- **renovate:** use the Renovate GitHub App for GitHub workflow updates ([3691fe0](https://github.com/vidavidorra/repo-template/commit/3691fe0f5df7926a788d5bd56c7040350ab61b17))
+
+### Continuous Integration
+
+- remove `chore` commit type from changelog (generation) ([d2f3f7b](https://github.com/vidavidorra/repo-template/commit/d2f3f7bb98543b0dfaa8b295487be61c458f504d))
+
 ### [1.1.5](https://github.com/vidavidorra/repo-template/compare/v1.1.4...v1.1.5) (2020-11-17)
 
 ### Continuous Integration
