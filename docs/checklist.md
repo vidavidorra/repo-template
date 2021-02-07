@@ -45,7 +45,6 @@ Go through this checklist after creating your repository. It should only take a 
 
 ## Renovate
 
-- [ ] Is the repository added to [GitHub Renovate](https://github.com/vidavidorra/github-renovate)'s [list of repositories](https://github.com/vidavidorra/github-renovate/blob/v1.0.2/src/renovate-config.js#L19)?
 - [ ] Is the Renovate GitHub App enabled on this repository?  
        Settings can be found in the _Installed GitHub Apps_ secion of the GitHub _Organization settings_ or in the _Applications_ section of the GitHub _Personal settings_. Add the repository to the list of selected repositories.
 
