@@ -1,3 +1,9 @@
+### [1.1.7](https://github.com/vidavidorra/repo-template/compare/v1.1.6...v1.1.7) (2021-02-07)
+
+### Continuous Integration
+
+- **renovate:** use `fix` as commit type for all Renovate updates ([87d6391](https://github.com/vidavidorra/repo-template/commit/87d6391f84aa5bcac0a38ef6007f2fb2dab0071e))
+
 ### [1.1.6](https://github.com/vidavidorra/repo-template/compare/v1.1.5...v1.1.6) (2021-02-07)
 
 ### Bug Fixes
