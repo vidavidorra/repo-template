@@ -1,26 +1,4 @@
 {
-  "extends": [
-    "config:base",
-    ":dependencyDashboard",
-    ":pinDependencies",
-    ":timezone(Europe/Amsterdam)",
-    ":semanticPrefixFix"
-  ],
-  "ignorePresets": [":prHourlyLimit2"],
-  "lockFileMaintenance": {
-    "enabled": true,
-    "dependencyDashboardApproval": true
-  },
-  "major": {
-    "stabilityDays": 3
-  },
-  "packageRules": [
-    {
-      "description": "Auto-merge dependencies",
-      "depTypeList": ["devDependencies", "dependencies"],
-      "updateTypes": ["pin", "digest", "patch", "minor"],
-      "automerge": true
-    }
-  ],
-  "prCreation": "not-pending"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>vidavidorra/.github", ":semanticPrefixFix"]
 }
