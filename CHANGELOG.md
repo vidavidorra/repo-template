@@ -1,3 +1,9 @@
+### [1.1.9](https://github.com/vidavidorra/repo-template/compare/v1.1.8...v1.1.9) (2021-02-10)
+
+### Continuous Integration
+
+- use Renovate configuration from `vidavidorra/.github` ([1b2431d](https://github.com/vidavidorra/repo-template/commit/1b2431d7648d949cb69f7c0e576be33d148f5a0a))
+
 ### [1.1.8](https://github.com/vidavidorra/repo-template/compare/v1.1.7...v1.1.8) (2021-02-07)
 
 ### Bug Fixes
