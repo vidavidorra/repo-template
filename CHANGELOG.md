@@ -1,3 +1,9 @@
+### [1.1.10](https://github.com/vidavidorra/repo-template/compare/v1.1.9...v1.1.10) (2021-02-12)
+
+### Continuous Integration
+
+- **renovate:** ignore `semanticPrefixFixDepsChoreOthers` preset from the extended config ([1cb926f](https://github.com/vidavidorra/repo-template/commit/1cb926ff1e4ece4fd93a060d197eaf08d6b10ef4))
+
 ### [1.1.9](https://github.com/vidavidorra/repo-template/compare/v1.1.8...v1.1.9) (2021-02-10)
 
 ### Continuous Integration
