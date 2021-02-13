@@ -1,3 +1,9 @@
+### [1.1.12](https://github.com/vidavidorra/repo-template/compare/v1.1.11...v1.1.12) (2021-02-13)
+
+### Bug Fixes
+
+- rename master branch to main ([f73e744](https://github.com/vidavidorra/repo-template/commit/f73e7446548ce0b69bab4d6498d2494ab708936f)), closes [#186](https://github.com/vidavidorra/repo-template/issues/186)
+
 ### [1.1.11](https://github.com/vidavidorra/repo-template/compare/v1.1.10...v1.1.11) (2021-02-13)
 
 ### Bug Fixes
