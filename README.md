@@ -32,7 +32,7 @@ This describes how to use this template, for which there are two options.
 2. Create a new empty repository on and merge this template.
    ```shell
    $ git commit --allow-empty -m 'chore: create HEAD'
-   $ git remote add -t master upstream git@github.com:vidavidorra/repo-template.git
+   $ git remote add -t main upstream git@github.com:vidavidorra/repo-template.git
    $ export REPO_TEMPLATE_TAG="$(git -c 'versionsort.suffix=-' ls-remote --exit-code --refs --sort='version:refname' --tags upstream 'v*.*.*' | tail --lines=1 | cut --delimiter='/' --fields=3)"
    $ export REPO_TEMPLATE_COMMIT="$(git -c 'versionsort.suffix=-' ls-remote --exit-code --refs --sort='version:refname' --tags upstream 'v*.*.*' | tail --lines=1 | cut --characters=1-7)"
    $ git fetch --no-tags upstream tag "${REPO_TEMPLATE_TAG}"

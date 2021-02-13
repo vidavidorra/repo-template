@@ -60,7 +60,7 @@ Go through this checklist after creating your repository. It should only take a 
 
 **Branches**
 
-- [ ] Are _Branch protection rules_ added on the `master` branch?
+- [ ] Are _Branch protection rules_ added on the `main` branch?
 
 ## Language setup
 
