@@ -1,3 +1,9 @@
+### [1.1.15](https://github.com/vidavidorra/repo-template/compare/v1.1.14...v1.1.15) (2021-02-17)
+
+### Bug Fixes
+
+- **deps:** update dependency @vidavidorra/commitlint-config to v2.1.7 ([#190](https://github.com/vidavidorra/repo-template/issues/190)) ([e6a22ea](https://github.com/vidavidorra/repo-template/commit/e6a22ea993207b03b1aa9684c220d314a37abe56))
+
 ### [1.1.14](https://github.com/vidavidorra/repo-template/compare/v1.1.13...v1.1.14) (2021-02-16)
 
 ### Bug Fixes
