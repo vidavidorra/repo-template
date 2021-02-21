@@ -8,6 +8,7 @@ const defaultConfig = {
     es2020: true,
     node: true,
   },
+  root: true,
   rules: {
     'prettier/prettier': 'error',
     'sort-imports': 'error',

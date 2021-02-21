@@ -5,5 +5,6 @@
 /coverage/
 /LICENSE.md
 /modules/
-node_modules/
+/node_modules/
+/worktrees/
 !.*
