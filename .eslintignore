@@ -6,3 +6,4 @@
 /LICENSE.md
 /modules/
 node_modules/
+!.*
