@@ -1,3 +1,13 @@
+### [1.1.19](https://github.com/vidavidorra/repo-template/compare/v1.1.18...v1.1.19) (2021-02-21)
+
+### Bug Fixes
+
+- ignore Git worktrees in the `/worktrees` directory ([c1cd7ba](https://github.com/vidavidorra/repo-template/commit/c1cd7babfd6e018cf1817c71ee6639b16a687cc5))
+
+### Styles
+
+- enable ESLint for dotfiles ([affb020](https://github.com/vidavidorra/repo-template/commit/affb020c7e5a0e26f04d4920ff87481053be17eb))
+
 ### [1.1.18](https://github.com/vidavidorra/repo-template/compare/v1.1.17...v1.1.18) (2021-02-20)
 
 ### Bug Fixes
