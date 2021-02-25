@@ -1,3 +1,9 @@
+### [1.1.23](https://github.com/vidavidorra/repo-template/compare/v1.1.22...v1.1.23) (2021-02-25)
+
+### Bug Fixes
+
+- **deps:** update wagoid/commitlint-github-action action to v3 ([#195](https://github.com/vidavidorra/repo-template/issues/195)) ([75c211e](https://github.com/vidavidorra/repo-template/commit/75c211ec84969f7629e45f04d473e4cf1e0d0400))
+
 ### [1.1.22](https://github.com/vidavidorra/repo-template/compare/v1.1.21...v1.1.22) (2021-02-25)
 
 ### Bug Fixes
