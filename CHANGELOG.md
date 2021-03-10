@@ -1,3 +1,9 @@
+### [1.1.33](https://github.com/vidavidorra/repo-template/compare/v1.1.32...v1.1.33) (2021-03-10)
+
+### Bug Fixes
+
+- **deps:** add missing conventional-changelog-conventionalcommits dependency ([ffa6b01](https://github.com/vidavidorra/repo-template/commit/ffa6b01250da75e92e77abc6b9a1a9b777495eed))
+
 ### [1.1.32](https://github.com/vidavidorra/repo-template/compare/v1.1.31...v1.1.32) (2021-03-08)
 
 ### Bug Fixes
