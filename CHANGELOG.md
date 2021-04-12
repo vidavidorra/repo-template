@@ -1,3 +1,9 @@
+### [1.1.44](https://github.com/vidavidorra/repo-template/compare/v1.1.43...v1.1.44) (2021-04-12)
+
+### Bug Fixes
+
+- **deps:** lock file maintenance ([159c0e9](https://github.com/vidavidorra/repo-template/commit/159c0e9dc8b96533aa2d85f261932311ab4dfe9b))
+
 ### [1.1.43](https://github.com/vidavidorra/repo-template/compare/v1.1.42...v1.1.43) (2021-04-06)
 
 ### Bug Fixes
