@@ -1,3 +1,9 @@
+### [1.1.49](https://github.com/vidavidorra/repo-template/compare/v1.1.48...v1.1.49) (2021-04-27)
+
+### Bug Fixes
+
+- **deps:** update linters ([16ea5d3](https://github.com/vidavidorra/repo-template/commit/16ea5d3d4292ab9fa7812ece5144d974533fde66))
+
 ### [1.1.48](https://github.com/vidavidorra/repo-template/compare/v1.1.47...v1.1.48) (2021-04-26)
 
 ### Bug Fixes
