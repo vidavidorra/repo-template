@@ -1,3 +1,9 @@
+### [1.1.52](https://github.com/vidavidorra/repo-template/compare/v1.1.51...v1.1.52) (2021-05-07)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-json to v3 ([#199](https://github.com/vidavidorra/repo-template/issues/199)) ([10eee7f](https://github.com/vidavidorra/repo-template/commit/10eee7fa59f076adea3080cc079be92ee4671de8))
+
 ### [1.1.51](https://github.com/vidavidorra/repo-template/compare/v1.1.50...v1.1.51) (2021-05-04)
 
 ### Bug Fixes
