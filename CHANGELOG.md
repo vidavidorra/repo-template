@@ -1,3 +1,10 @@
+### [1.1.60](https://github.com/vidavidorra/repo-template/compare/v1.1.59...v1.1.60) (2021-05-17)
+
+### Bug Fixes
+
+- **deps:** lock file maintenance ([c214868](https://github.com/vidavidorra/repo-template/commit/c2148684b8dea9a0e470e4ee16b72bfbad93ea65))
+- **deps:** update dependency @vidavidorra/commitlint-config to v2.1.16 ([d35e1f6](https://github.com/vidavidorra/repo-template/commit/d35e1f67e86096f4a1233825f0ac439f53482fc9))
+
 ### [1.1.59](https://github.com/vidavidorra/repo-template/compare/v1.1.58...v1.1.59) (2021-05-16)
 
 ### Bug Fixes
