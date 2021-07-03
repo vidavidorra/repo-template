@@ -1,3 +1,9 @@
+### [1.1.73](https://github.com/vidavidorra/repo-template/compare/v1.1.72...v1.1.73) (2021-07-03)
+
+### Bug Fixes
+
+- **deps:** update actions/setup-node action to v2.2.0 ([3890c95](https://github.com/vidavidorra/repo-template/commit/3890c951c3ebf0656d7ca278e64ea4a1510dba68))
+
 ### [1.1.72](https://github.com/vidavidorra/repo-template/compare/v1.1.71...v1.1.72) (2021-06-29)
 
 ### Bug Fixes
