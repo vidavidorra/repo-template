@@ -1,3 +1,9 @@
+### [1.1.78](https://github.com/vidavidorra/repo-template/compare/v1.1.77...v1.1.78) (2021-07-16)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to v11.0.1 ([6f89d53](https://github.com/vidavidorra/repo-template/commit/6f89d53b12a226789781df524bec8ba92851bc61))
+
 ### [1.1.77](https://github.com/vidavidorra/repo-template/compare/v1.1.76...v1.1.77) (2021-07-15)
 
 ### Bug Fixes
