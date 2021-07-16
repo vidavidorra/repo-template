@@ -1,3 +1,9 @@
+### [1.1.79](https://github.com/vidavidorra/repo-template/compare/v1.1.78...v1.1.79) (2021-07-16)
+
+### Bug Fixes
+
+- **deps:** pin dependencies ([#203](https://github.com/vidavidorra/repo-template/issues/203)) ([e49be90](https://github.com/vidavidorra/repo-template/commit/e49be90f4311d42df9f6feb48cd24d64a0f6f8b9))
+
 ### [1.1.78](https://github.com/vidavidorra/repo-template/compare/v1.1.77...v1.1.78) (2021-07-16)
 
 ### Bug Fixes
