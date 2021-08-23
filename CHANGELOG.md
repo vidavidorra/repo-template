@@ -1,3 +1,9 @@
+### [1.1.94](https://github.com/vidavidorra/repo-template/compare/v1.1.93...v1.1.94) (2021-08-23)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-prettier to v3.4.1 ([0d94510](https://github.com/vidavidorra/repo-template/commit/0d94510959d82685001bc52d0232cf0d49de10d9))
+
 ### [1.1.93](https://github.com/vidavidorra/repo-template/compare/v1.1.92...v1.1.93) (2021-08-19)
 
 ### Bug Fixes
