@@ -1,3 +1,9 @@
+### [1.1.95](https://github.com/vidavidorra/repo-template/compare/v1.1.94...v1.1.95) (2021-08-28)
+
+### Bug Fixes
+
+- **deps:** update dependency semantic-release to v17.4.7 ([3983986](https://github.com/vidavidorra/repo-template/commit/39839864fb0b4e8374bbc8cea6d5936d74ddf999))
+
 ### [1.1.94](https://github.com/vidavidorra/repo-template/compare/v1.1.93...v1.1.94) (2021-08-23)
 
 ### Bug Fixes
