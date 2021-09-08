@@ -1,3 +1,9 @@
+### [1.1.98](https://github.com/vidavidorra/repo-template/compare/v1.1.97...v1.1.98) (2021-09-08)
+
+### Bug Fixes
+
+- **deps:** update dependency @semantic-release/git to v9.0.1 ([334942d](https://github.com/vidavidorra/repo-template/commit/334942da19c9745264694cbec1fa24320f9d65d8))
+
 ### [1.1.97](https://github.com/vidavidorra/repo-template/compare/v1.1.96...v1.1.97) (2021-09-03)
 
 ### Bug Fixes
