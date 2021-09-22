@@ -1,3 +1,9 @@
+### [1.1.105](https://github.com/vidavidorra/repo-template/compare/v1.1.104...v1.1.105) (2021-09-22)
+
+### Bug Fixes
+
+- **deps:** update semantic-release monorepo ([#207](https://github.com/vidavidorra/repo-template/issues/207)) ([4aa1d06](https://github.com/vidavidorra/repo-template/commit/4aa1d0613ddba07b70f06d591845762994aaa225))
+
 ### [1.1.104](https://github.com/vidavidorra/repo-template/compare/v1.1.103...v1.1.104) (2021-09-19)
 
 ### Bug Fixes
