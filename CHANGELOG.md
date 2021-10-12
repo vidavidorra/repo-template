@@ -1,3 +1,9 @@
+### [1.1.113](https://github.com/vidavidorra/repo-template/compare/v1.1.112...v1.1.113) (2021-10-12)
+
+### Bug Fixes
+
+- **deps:** update dependency @commitlint/cli to v13.2.1 ([de925c0](https://github.com/vidavidorra/repo-template/commit/de925c0e46c2b373c4173b663ee649de45eecc2a))
+
 ### [1.1.112](https://github.com/vidavidorra/repo-template/compare/v1.1.111...v1.1.112) (2021-10-11)
 
 ### Bug Fixes
