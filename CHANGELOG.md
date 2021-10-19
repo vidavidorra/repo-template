@@ -1,3 +1,9 @@
+### [1.1.117](https://github.com/vidavidorra/repo-template/compare/v1.1.116...v1.1.117) (2021-10-19)
+
+### Bug Fixes
+
+- **deps:** update actions/checkout action to v2.3.5 ([bc1f9bb](https://github.com/vidavidorra/repo-template/commit/bc1f9bb91e9a20d26e868ab628eb8aca02c2e7e4))
+
 ### [1.1.116](https://github.com/vidavidorra/repo-template/compare/v1.1.115...v1.1.116) (2021-10-15)
 
 ### Bug Fixes
