@@ -1,3 +1,9 @@
+### [1.1.118](https://github.com/vidavidorra/repo-template/compare/v1.1.117...v1.1.118) (2021-10-24)
+
+### Bug Fixes
+
+- **deps:** update dependency husky to v7.0.4 ([00947f1](https://github.com/vidavidorra/repo-template/commit/00947f15efe175ba440084ba6a3ae43cde018e75))
+
 ### [1.1.117](https://github.com/vidavidorra/repo-template/compare/v1.1.116...v1.1.117) (2021-10-19)
 
 ### Bug Fixes
