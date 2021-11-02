@@ -27,9 +27,9 @@
   "homepage": "https://github.com/vidavidorra/repo-template#readme",
   "devDependencies": {
     "@commitlint/cli": "13.2.1",
-    "@semantic-release/changelog": "6.0.0",
-    "@semantic-release/exec": "6.0.1",
-    "@semantic-release/git": "10.0.0",
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/exec": "6.0.2",
+    "@semantic-release/git": "10.0.1",
     "@vidavidorra/commitlint-config": "3.0.3",
     "conventional-changelog-conventionalcommits": "4.6.1",
     "eslint": "8.1.0",
