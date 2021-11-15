@@ -1,3 +1,9 @@
+### [1.1.127](https://github.com/vidavidorra/repo-template/compare/v1.1.126...v1.1.127) (2021-11-15)
+
+### Bug Fixes
+
+- **deps:** lock file maintenance ([a55e5b0](https://github.com/vidavidorra/repo-template/commit/a55e5b080b30b5e9a102f9a41f63b1ef5f37c8b8))
+
 ### [1.1.126](https://github.com/vidavidorra/repo-template/compare/v1.1.125...v1.1.126) (2021-11-12)
 
 ### Bug Fixes
