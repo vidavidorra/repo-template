@@ -1,3 +1,9 @@
+### [1.1.138](https://github.com/vidavidorra/repo-template/compare/v1.1.137...v1.1.138) (2021-12-18)
+
+### Bug Fixes
+
+- **deps:** update dependency @semantic-release/exec to v6.0.3 ([2de359f](https://github.com/vidavidorra/repo-template/commit/2de359f3ecc4059e657632a6621be17ef65d4609))
+
 ### [1.1.137](https://github.com/vidavidorra/repo-template/compare/v1.1.136...v1.1.137) (2021-12-10)
 
 ### Bug Fixes
