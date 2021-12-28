@@ -1,3 +1,10 @@
+### [1.1.143](https://github.com/vidavidorra/repo-template/compare/v1.1.142...v1.1.143) (2021-12-28)
+
+### Bug Fixes
+
+- **deps:** update dependency conventional-changelog-conventionalcommits to v4.6.2 ([2af7805](https://github.com/vidavidorra/repo-template/commit/2af7805c30a847764da510cf5c23b0dae8867e1a))
+- **deps:** update dependency lint-staged to v12.1.4 ([4c42999](https://github.com/vidavidorra/repo-template/commit/4c42999ec69f3cc63e60a20909f7d35e02f1873c))
+
 ### [1.1.142](https://github.com/vidavidorra/repo-template/compare/v1.1.141...v1.1.142) (2021-12-26)
 
 ### Bug Fixes
