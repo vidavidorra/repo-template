@@ -1,3 +1,9 @@
+### [1.1.168](https://github.com/vidavidorra/repo-template/compare/v1.1.167...v1.1.168) (2022-02-16)
+
+### Bug Fixes
+
+- **deps:** update dependency @vidavidorra/commitlint-config to v3.2.4 ([221f3b8](https://github.com/vidavidorra/repo-template/commit/221f3b8c8f2c7b1554e6699eb810d9320b0d76f7))
+
 ### [1.1.167](https://github.com/vidavidorra/repo-template/compare/v1.1.166...v1.1.167) (2022-02-16)
 
 ### Bug Fixes
