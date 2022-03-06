@@ -1,3 +1,9 @@
+### [1.1.175](https://github.com/vidavidorra/repo-template/compare/v1.1.174...v1.1.175) (2022-03-06)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-config-prettier to v8.5.0 ([1cdc0c6](https://github.com/vidavidorra/repo-template/commit/1cdc0c6905bbfe8c1cbf6bee4b1398e18f2ad0f3))
+
 ### [1.1.174](https://github.com/vidavidorra/repo-template/compare/v1.1.173...v1.1.174) (2022-03-01)
 
 ### Bug Fixes
