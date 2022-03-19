@@ -1,3 +1,9 @@
+### [1.1.179](https://github.com/vidavidorra/repo-template/compare/v1.1.178...v1.1.179) (2022-03-19)
+
+### Bug Fixes
+
+- **deps:** update dependency @commitlint/cli to v16.2.3 ([aa8350a](https://github.com/vidavidorra/repo-template/commit/aa8350a7ef893d0fd310b5f8bd7f39aca9f740bf))
+
 ### [1.1.178](https://github.com/vidavidorra/repo-template/compare/v1.1.177...v1.1.178) (2022-03-15)
 
 ### Bug Fixes
