@@ -1,3 +1,9 @@
+### [1.1.183](https://github.com/vidavidorra/repo-template/compare/v1.1.182...v1.1.183) (2022-03-28)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to v2.6.1 ([1f876ef](https://github.com/vidavidorra/repo-template/commit/1f876ef351c2966d03cf5c774c07e6557d0b1154))
+
 ### [1.1.182](https://github.com/vidavidorra/repo-template/compare/v1.1.181...v1.1.182) (2022-03-20)
 
 ### Bug Fixes
