@@ -1,3 +1,13 @@
+### [1.1.188](https://github.com/vidavidorra/repo-template/compare/v1.1.187...v1.1.188) (2022-04-05)
+
+### Documentation
+
+- add 2022 to the licenses ([7079d13](https://github.com/vidavidorra/repo-template/commit/7079d13edf3b2a55ae67f237394686d32656890a))
+
+### Continuous Integration
+
+- use reusable workflows from my .github repository ([d50295c](https://github.com/vidavidorra/repo-template/commit/d50295c33ed980052e52e29194cd7b0e38cba979))
+
 ### [1.1.187](https://github.com/vidavidorra/repo-template/compare/v1.1.186...v1.1.187) (2022-04-05)
 
 ### Bug Fixes
