@@ -1,10 +1,10 @@
-# <title>
+# <title> <!-- omit in toc -->
 
 <description>
 
 <a name="toc"></a>
 
-## Table of contents
+## Table of contents <!-- omit in toc -->
 
 - [Badges](#badges)
 - [License](#license)
@@ -24,7 +24,7 @@
 
 This project is licensed under the [GPLv3 license](https://www.gnu.org/licenses/gpl.html).
 
-Copyright © 2020 Jeroen de Bruijn
+Copyright © 2022 Jeroen de Bruijn
 
 <details><summary>License details.</summary>
 <p>

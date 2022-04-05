@@ -1,4 +1,4 @@
-# Repository template
+# Repository template <!-- omit in toc -->
 
 A template for creating new repositories.
 
@@ -15,7 +15,7 @@ A template for creating new repositories.
 
 <a name="toc"></a>
 
-## Table of contents
+## Table of contents <!-- omit in toc -->
 
 - [Install](#install)
 - [Usage](#usage)
@@ -73,7 +73,7 @@ Please refer to the [Security Policy on GitHub](https://github.com/vidavidorra/r
 
 This project is licensed under the [GPLv3 license](https://www.gnu.org/licenses/gpl.html).
 
-Copyright © 2019-2020 Jeroen de Bruijn
+Copyright © 2019-2022 Jeroen de Bruijn
 
 <details><summary>License details.</summary>
 <p>
