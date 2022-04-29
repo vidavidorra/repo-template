@@ -1,3 +1,9 @@
+### [1.1.197](https://github.com/vidavidorra/repo-template/compare/v1.1.196...v1.1.197) (2022-04-29)
+
+### Bug Fixes
+
+- **deps:** update dependency lint-staged to v12.4.1 ([8fc4441](https://github.com/vidavidorra/repo-template/commit/8fc4441e0e227d3c46dbc95ffd2f48e1a099c32f))
+
 ### [1.1.196](https://github.com/vidavidorra/repo-template/compare/v1.1.195...v1.1.196) (2022-04-26)
 
 ### Bug Fixes
