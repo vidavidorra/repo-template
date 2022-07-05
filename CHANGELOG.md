@@ -1,3 +1,9 @@
+## [1.1.225](https://github.com/vidavidorra/repo-template/compare/v1.1.224...v1.1.225) (2022-07-05)
+
+### Bug Fixes
+
+- **deps:** update linters ([6db8264](https://github.com/vidavidorra/repo-template/commit/6db826464d2c3db3b26ea898f829857e95f51d27))
+
 ## [1.1.224](https://github.com/vidavidorra/repo-template/compare/v1.1.223...v1.1.224) (2022-06-28)
 
 ### Bug Fixes
