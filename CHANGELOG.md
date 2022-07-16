@@ -1,3 +1,9 @@
+## [1.1.227](https://github.com/vidavidorra/repo-template/compare/v1.1.226...v1.1.227) (2022-07-16)
+
+### Bug Fixes
+
+- **deps:** update actions/setup-node action to v3.4.1 ([c4561a0](https://github.com/vidavidorra/repo-template/commit/c4561a0b9e67fbb7e2ccfbc223ac20e99757422c))
+
 ## [1.1.226](https://github.com/vidavidorra/repo-template/compare/v1.1.225...v1.1.226) (2022-07-11)
 
 ### Bug Fixes
