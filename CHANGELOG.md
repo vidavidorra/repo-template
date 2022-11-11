@@ -1,3 +1,9 @@
+## [1.1.249](https://github.com/vidavidorra/repo-template/compare/v1.1.248...v1.1.249) (2022-11-11)
+
+### Bug Fixes
+
+- **deps:** update dependency husky to v8.0.2 ([b360914](https://github.com/vidavidorra/repo-template/commit/b3609143d510beaa892eb9e8f3005a9c1c7521d0))
+
 ## [1.1.248](https://github.com/vidavidorra/repo-template/compare/v1.1.247...v1.1.248) (2022-11-09)
 
 ### Bug Fixes
