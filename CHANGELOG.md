@@ -1,3 +1,9 @@
+## [1.1.265](https://github.com/vidavidorra/repo-template/compare/v1.1.264...v1.1.265) (2023-01-05)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-config-prettier to v8.6.0 ([6225916](https://github.com/vidavidorra/repo-template/commit/6225916823ec6b3eec1263c2fa7c33a43afdc8a6))
+
 ## [1.1.264](https://github.com/vidavidorra/repo-template/compare/v1.1.263...v1.1.264) (2023-01-05)
 
 ### Bug Fixes
