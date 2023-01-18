@@ -1,3 +1,9 @@
+## [1.1.276](https://github.com/vidavidorra/repo-template/compare/v1.1.275...v1.1.276) (2023-01-18)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to v8.32.0 ([acd0fb2](https://github.com/vidavidorra/repo-template/commit/acd0fb2999cc6007131808945a9896f62da02cf1))
+
 ## [1.1.275](https://github.com/vidavidorra/repo-template/compare/v1.1.274...v1.1.275) (2023-01-17)
 
 ### Bug Fixes
