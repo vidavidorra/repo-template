@@ -1,3 +1,10 @@
+## [1.1.292](https://github.com/vidavidorra/repo-template/compare/v1.1.291...v1.1.292) (2023-03-23)
+
+### Bug Fixes
+
+- **deps:** update actions/checkout action to v3.4.0 ([bab09bc](https://github.com/vidavidorra/repo-template/commit/bab09bcb4f326ded27026a0ee464e42431dc4fb4))
+- **deps:** update dependency prettier to v2.8.5 ([430234a](https://github.com/vidavidorra/repo-template/commit/430234abf4ea79b601810daca249e61d87fe76f8))
+
 ## [1.1.291](https://github.com/vidavidorra/repo-template/compare/v1.1.290...v1.1.291) (2023-03-14)
 
 ### Bug Fixes
