@@ -30,7 +30,7 @@
     "@semantic-release/changelog": "6.0.2",
     "@semantic-release/exec": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@vidavidorra/commitlint-config": "4.0.12",
+    "@vidavidorra/commitlint-config": "4.0.13",
     "conventional-changelog-conventionalcommits": "5.0.0",
     "eslint": "8.36.0",
     "eslint-config-prettier": "8.8.0",
