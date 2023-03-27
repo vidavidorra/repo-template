@@ -1,3 +1,9 @@
+## [1.1.297](https://github.com/vidavidorra/repo-template/compare/v1.1.296...v1.1.297) (2023-03-27)
+
+### Bug Fixes
+
+- **deps:** update dependency @semantic-release/changelog to v6.0.3 ([4cad9a9](https://github.com/vidavidorra/repo-template/commit/4cad9a9ee57a5e9199e5cf9598102e014be0e681))
+
 ## [1.1.296](https://github.com/vidavidorra/repo-template/compare/v1.1.295...v1.1.296) (2023-03-26)
 
 ### Bug Fixes
