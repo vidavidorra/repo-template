@@ -1,3 +1,9 @@
+## [1.1.311](https://github.com/vidavidorra/repo-template/compare/v1.1.310...v1.1.311) (2023-04-17)
+
+### Bug Fixes
+
+- **deps:** update vidavidorra/.github action to v1.3.0 ([7e30404](https://github.com/vidavidorra/repo-template/commit/7e304049077d199500b1a6db6b347c15fba9e779))
+
 ## [1.1.310](https://github.com/vidavidorra/repo-template/compare/v1.1.309...v1.1.310) (2023-04-17)
 
 ### Bug Fixes
