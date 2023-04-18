@@ -1,3 +1,9 @@
+## [1.1.313](https://github.com/vidavidorra/repo-template/compare/v1.1.312...v1.1.313) (2023-04-18)
+
+### Bug Fixes
+
+- **deps:** update vidavidorra/.github action to v2 ([#228](https://github.com/vidavidorra/repo-template/issues/228)) ([bb48b52](https://github.com/vidavidorra/repo-template/commit/bb48b52bd75ec936e650b4a36fa0f3b57373be13))
+
 ## [1.1.312](https://github.com/vidavidorra/repo-template/compare/v1.1.311...v1.1.312) (2023-04-17)
 
 ### Bug Fixes
