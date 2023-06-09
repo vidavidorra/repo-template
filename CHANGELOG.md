@@ -1,3 +1,9 @@
+## [1.1.314](https://github.com/vidavidorra/repo-template/compare/v1.1.313...v1.1.314) (2023-06-09)
+
+### Bug Fixes
+
+- **deps:** update dependency conventional-changelog-conventionalcommits to v6 ([#231](https://github.com/vidavidorra/repo-template/issues/231)) ([0da845e](https://github.com/vidavidorra/repo-template/commit/0da845e57775c3364d4f136ab4788b84b05b8da8))
+
 ## [1.1.313](https://github.com/vidavidorra/repo-template/compare/v1.1.312...v1.1.313) (2023-04-18)
 
 ### Bug Fixes
