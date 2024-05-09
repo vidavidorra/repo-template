@@ -1,5 +1,14 @@
 # Repository template <!-- omit in toc -->
 
+> [!CAUTION]
+> This project is no longer maintained.
+
+# ⚠ This project is no longer maintained <!-- omit in toc -->
+
+This project is no longer maintained. In October 2023 I've created [`create-project`](https://github.com/vidavidorra/create-project), a CLI tool to interactively create a project. That project does the same as this template does, and way more, and therefore this project is being archived. I recommend using [`create-project`](https://github.com/vidavidorra/create-project) instead.
+
+---
+
 A template for creating new repositories.
 
 - Commit style using [commitlint](https://commitlint.js.org/).
