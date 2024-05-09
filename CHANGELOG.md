@@ -1,3 +1,13 @@
+## [1.1.318](https://github.com/vidavidorra/repo-template/compare/v1.1.317...v1.1.318) (2024-05-09)
+
+### ⚠ BREAKING CHANGES
+
+- add a note that this project is no longer maintained and suggest a replacement
+
+### Documentation
+
+- add a note that this project is no longer maintained and suggest a replacement ([7f282b1](https://github.com/vidavidorra/repo-template/commit/7f282b193572a3e43db807c3c543d001fd9769c7))
+
 ## [1.1.317](https://github.com/vidavidorra/repo-template/compare/v1.1.316...v1.1.317) (2023-06-23)
 
 ### Bug Fixes
