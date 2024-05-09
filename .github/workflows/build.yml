@@ -24,7 +24,7 @@ jobs:
           # Make sure the release step uses its own credentials.
           persist-credentials: false
       - name: Setup node
-        uses: actions/setup-node@64ed1c7eab4cce3362f8c340dee64e5eaeef8f7c # v3.6.0
+        uses: actions/setup-node@1a4442cacd436585916779262731d5b162bc6ec7 # v3.8.2
         with:
           node-version: 18
       - name: Install project
